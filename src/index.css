@@ -1,0 +1,184 @@
+/* Display face for headlines. The original landing artwork was set in Anton, so
+   Anton stays the face for every Latin locale. Anton ships no Cyrillic and no
+   CJK, so those locales swap in the closest extra-condensed equivalents. */
+@import url("https://fonts.googleapis.com/css2?family=Anton&family=Fira+Sans+Extra+Condensed:wght@700;800&family=Oswald:wght@600;700&family=Noto+Sans+SC:wght@400;500;700;900&display=swap");
+@import 'tailwindcss';
+
+/* Inter faces required by the imported desktop design. The imported code
+   references these exact colon-named families (e.g. font-['Inter:Regular']). */
+@font-face {
+  font-family: 'Inter:Regular';
+  src: url('https://static.figma.com/font/Inter_1') format('woff2');
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Inter:Medium';
+  src: url('https://static.figma.com/font/Inter_1') format('woff2');
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'Inter:Semi Bold';
+  src: url('https://static.figma.com/font/Inter_1') format('woff2');
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+}
+
+/* Design tokens aligned to the new 404 landing (cream / accent red / black).
+   Every surface, body copy shade and accent state lives here, so the landing,
+   the documents and the modals cannot drift apart. */
+@theme {
+  --color-ink: #000000;
+  --color-cream: #fbf9f6;
+  --color-accent: #bd3133;
+  --color-accent-hover: #a02a2c;
+  --color-accent-active: #8f2025;
+  --color-muted: #8a8780;
+  --color-hair: #242424;
+  --color-panel: #0a0a0a;
+  --color-body-dim: #c7c4bf;
+  --color-body-bright: #e0e0e0;
+  --font-display: "Anton", "Fira Sans Extra Condensed", sans-serif;
+  --font-label: "Inter:Semi Bold", "Inter:Medium", sans-serif;
+  --font-body: "Inter:Regular", sans-serif;
+  --font-mono: ui-monospace, "SFMono-Regular", Menlo, Monaco, Consolas, monospace;
+}
+
+html {
+  overflow-x: clip;
+}
+
+html,
+body,
+#root {
+  height: 100%;
+  min-height: 100%;
+  min-height: 100dvh;
+}
+
+body {
+  background-color: var(--color-ink);
+  color: var(--color-cream);
+  font-family: var(--font-body);
+  -webkit-font-smoothing: antialiased;
+}
+
+::selection {
+  background: var(--color-accent);
+  color: var(--color-cream);
+}
+
+:focus-visible {
+  outline: 2px solid var(--color-accent);
+  outline-offset: 3px;
+}
+
+/* Anton has a single weight, so asking for a bolder one only triggers synthetic
+   bolding. Every locale therefore declares the weight its own display face
+   needs, and headline styles read it from here instead of hardcoding one. */
+:root {
+  --display-weight: 400;
+  --display-tracking: -0.01em;
+}
+
+.headline {
+  font-family: var(--font-display);
+  font-weight: var(--display-weight);
+  letter-spacing: var(--display-tracking);
+  line-height: 0.86;
+  text-transform: uppercase;
+}
+
+/* Cyrillic: Anton has no Cyrillic glyphs at all, so Russian runs entirely on
+   the extra-condensed Fira face at its heaviest weight. */
+html[data-locale="ru"] {
+  --font-display: "Fira Sans Extra Condensed", "Oswald", sans-serif;
+  --display-weight: 800;
+}
+
+/* CJK: neither Anton nor the Figma Inter faces carry Han glyphs. */
+html[data-locale="zh"] {
+  --font-display: "Noto Sans SC", "PingFang SC", "Microsoft YaHei", sans-serif;
+  --font-label: "Noto Sans SC", "PingFang SC", "Microsoft YaHei", "Inter:Semi Bold",
+    sans-serif;
+  --font-body: "Noto Sans SC", "PingFang SC", "Microsoft YaHei", "Inter:Regular", sans-serif;
+  --display-weight: 900;
+  --display-tracking: 0;
+}
+
+html[data-locale="zh"] .headline {
+  line-height: 1.05;
+}
+
+/* Smooth in-page anchor scrolling for the CTA links, unless the visitor
+   prefers reduced motion. */
+@media (prefers-reduced-motion: no-preference) {
+  html {
+    scroll-behavior: smooth;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  html {
+    scroll-behavior: auto;
+  }
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+  }
+}
+
+/* Primary call to action. The landing, the modals and the payment screens all
+   size their own buttons, but the accent fill, its hover and active shades and
+   the disabled treatment are defined once so every button matches. */
+.btn-accent {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 44px;
+  background-color: var(--color-accent);
+  color: var(--color-cream);
+  transition: background-color 150ms ease;
+}
+.btn-accent:hover:not(:disabled) {
+  background-color: var(--color-accent-hover);
+}
+.btn-accent:active:not(:disabled) {
+  background-color: var(--color-accent-active);
+}
+.btn-accent:disabled {
+  cursor: not-allowed;
+  opacity: 0.6;
+}
+
+.chat-history {
+  transition: max-height 300ms cubic-bezier(0.22, 1, 0.36, 1);
+}
+@media (prefers-reduced-motion: reduce) {
+  .chat-history {
+    transition: none;
+  }
+}
+
+@keyframes faq-dot {
+  0%,
+  60%,
+  100% {
+    opacity: 0.25;
+    transform: translateY(0);
+  }
+  30% {
+    opacity: 1;
+    transform: translateY(-3px);
+  }
+}
+.faq-dot {
+  animation: faq-dot 1.2s infinite ease-in-out;
+}

@@ -1,0 +1,247 @@
+import type { CSSProperties, ReactNode } from "react"
+import FrameScaler from "@/components/FrameScaler"
+import ViewportFrame from "@/components/ViewportFrame"
+import FaqChat from "@/components/FaqChat"
+import Section10 from "@/components/Section10"
+
+import Frame1 from "@/imports/1V2"
+import Frame2 from "@/imports/2V2-1"
+import Frame3 from "@/imports/3V2"
+import Frame4 from "@/imports/4V2"
+import Frame5 from "@/imports/5V2"
+import Frame6 from "@/imports/6V2"
+import Frame7 from "@/imports/7V2"
+import Frame8 from "@/imports/8V2"
+import Frame9 from "@/imports/9V2"
+import svgPaths11 from "@/imports/11V2/svg-we3evo8zed"
+
+// The mobile / tablet composition: a full-bleed poster sequence of 390px-wide
+// frames. Like the desktop canvas, its headlines are vector artwork rather than
+// live text, so the typography is pixel-identical to the design. Every frame
+// except the composite one is contained in a viewport-tall slot, so a single
+// screen is in view at a time and the rhythm stays constant.
+
+// One coherent page system: a single content column shared by every section.
+// v2 frames bake their own text gutters + full-frame-width imagery in, so the
+// frame itself reaches the column edges (full-bleed on mobile).
+function Section({
+  children,
+  label,
+  id,
+  className = "",
+}: {
+  children: ReactNode
+  label: string
+  id?: string
+  className?: string
+}) {
+  return (
+    <section
+      id={id}
+      aria-label={label}
+      className={className + (id ? " scroll-mt-6" : "")}
+    >
+      <div className="mx-auto w-full max-w-[600px]">{children}</div>
+    </section>
+  )
+}
+
+// Interactive overlay placed over original SVG button artwork. The artwork is
+// never modified — interaction states live on the container only.
+function CtaOverlay({
+  href,
+  onClick,
+  label,
+  style,
+}: {
+  href?: string
+  onClick?: () => void
+  label: string
+  style: CSSProperties
+}) {
+  const className = "group absolute block outline-none"
+  const states = (
+    <>
+      <span className="absolute inset-0 bg-white opacity-0 transition-opacity duration-100 group-hover:opacity-10 group-active:opacity-20" />
+      <span className="absolute inset-0 ring-[#fbf9f6] ring-offset-2 ring-offset-black group-focus-visible:ring-2" />
+    </>
+  )
+
+  if (onClick) {
+    return (
+      <button
+        type="button"
+        onClick={onClick}
+        aria-label={label}
+        className={className}
+        style={style}
+      >
+        {states}
+      </button>
+    )
+  }
+
+  return (
+    <a href={href} aria-label={label} className={className} style={style}>
+      {states}
+    </a>
+  )
+}
+
+// Shared button geometry (red rect) as % of each frame, matching the v2 source.
+const CTA_LEFT = "10.77%"
+const CTA_WIDTH = "78.46%"
+
+export default function MobileLanding({
+  onOpenPaywall,
+}: {
+  onOpenPaywall: () => void
+}) {
+  return (
+    <>
+      <div>
+        {/* 1 — 404 hero */}
+        <Section label="Not found">
+          <ViewportFrame height={844}>
+            <Frame1 />
+          </ViewportFrame>
+        </Section>
+
+        {/* 2 — Finally, a challenge for your brain */}
+        <Section id="story" label="A challenge for your brain">
+          <ViewportFrame height={788}>
+            <Frame2 />
+          </ViewportFrame>
+        </Section>
+
+        {/* 3 — What if big tech is hiding something? */}
+        <Section label="What if big tech is hiding something">
+          <ViewportFrame height={790}>
+            <Frame3 />
+          </ViewportFrame>
+        </Section>
+
+        {/* 4 — AI-developer is gone missing (+ START THE SEARCH → pricing) */}
+        <Section label="An AI developer is gone missing">
+          <ViewportFrame
+            height={844}
+            overlay={
+              <CtaOverlay
+                href="#pricing"
+                label="Start the search"
+                style={{
+                  left: CTA_LEFT,
+                  top: "88.74%",
+                  width: CTA_WIDTH,
+                  height: "7.47%",
+                }}
+              />
+            }
+          >
+            <Frame4 />
+          </ViewportFrame>
+        </Section>
+
+        {/* 5 — Get to the bottom of it (hack / media / chat). The one composite
+            frame: it holds three separate scenes, so it keeps the width-only
+            scaler instead of being squeezed into a single viewport. */}
+        <Section label="Get to the bottom of it">
+          <FrameScaler height={1718}>
+            <Frame5 />
+          </FrameScaler>
+        </Section>
+
+        {/* 6 — This is not for you if you */}
+        <Section label="This is not for you if you">
+          <ViewportFrame height={881}>
+            <Frame6 />
+          </ViewportFrame>
+        </Section>
+
+        {/* 7 — Complex characters and tough decisions (+ I'M READY → pricing) */}
+        <Section id="characters" label="Complex characters and tough decisions">
+          <ViewportFrame
+            height={902}
+            overlay={
+              <CtaOverlay
+                href="#pricing"
+                label="I'm ready"
+                style={{
+                  left: CTA_LEFT,
+                  top: "88.91%",
+                  width: CTA_WIDTH,
+                  height: "6.99%",
+                }}
+              />
+            }
+          >
+            <Frame7 />
+          </ViewportFrame>
+        </Section>
+
+        {/* 8 — Challenging and rewarding quests */}
+        <Section label="Challenging and rewarding quests">
+          <ViewportFrame height={817}>
+            <Frame8 />
+          </ViewportFrame>
+        </Section>
+
+        {/* 9 — 3+ hours of deep immersion */}
+        <Section label="Hours of deep immersion">
+          <ViewportFrame height={770}>
+            <Frame9 />
+          </ViewportFrame>
+        </Section>
+
+        {/* 10 — The full case. $45. + timed bullet reveal + paywall CTA */}
+        <Section id="pricing" label="The full case pricing">
+          <Section10
+            overlay={
+              <CtaOverlay
+                onClick={onOpenPaywall}
+                label="Start the investigation"
+                style={{
+                  left: "10.51%",
+                  top: "82.58%",
+                  width: CTA_WIDTH,
+                  height: "7.47%",
+                }}
+              />
+            }
+          />
+        </Section>
+
+        {/* 11 — Got questions? Ask them here + FAQ chat */}
+        <Section
+          label="Got questions? Ask them here"
+          className="flex min-h-dvh flex-col justify-center px-5 py-10 sm:px-8"
+        >
+          <div role="img" aria-label="Got questions? Ask them here.">
+            <svg
+              className="mx-auto block h-auto w-[78.46%] max-w-[471px]"
+              fill="none"
+              viewBox="0 0 306 285.635"
+              preserveAspectRatio="xMidYMid meet"
+            >
+              <path
+                clipRule="evenodd"
+                d={svgPaths11.p5a5800}
+                fill="#FBF9F6"
+                fillRule="evenodd"
+              />
+              <path
+                clipRule="evenodd"
+                d={svgPaths11.p233700}
+                fill="#BD3133"
+                fillRule="evenodd"
+              />
+            </svg>
+          </div>
+          <div className="mt-10">
+            <FaqChat />
+          </div>
+        </Section>
+      </div>
+    </>
+  )
+}

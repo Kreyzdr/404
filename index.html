@@ -1,0 +1,115 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="theme-color" content="#000000" />
+    <meta name="color-scheme" content="dark" />
+
+    <!-- The title, the description and the og:title / og:description pair are
+         injected from .figma/make/site.json by the figma-site-configuration
+         plugin in vite.config.ts, so they must not be repeated here. -->
+    <title>404: Developer Not Found</title>
+    <meta
+      name="description"
+      content="An interactive detective thriller where you investigate a disappearance, uncover secrets, and decide what to believe."
+    />
+
+    <link rel="canonical" href="https://developer-not-found-404.epilogic.studio/" />
+    <link rel="icon" href="/favicon.ico" sizes="any" />
+    <link rel="apple-touch-icon" href="/apple-touch-icon.png" />
+    <link rel="manifest" href="/site.webmanifest" />
+
+    <!-- The app is served from a locale prefix per language (/, /de, /es, /ru,
+         /zh), so each one is declared as an alternate of the others. -->
+    <link rel="alternate" hreflang="en" href="https://developer-not-found-404.epilogic.studio/" />
+    <link rel="alternate" hreflang="de" href="https://developer-not-found-404.epilogic.studio/de" />
+    <link rel="alternate" hreflang="es" href="https://developer-not-found-404.epilogic.studio/es" />
+    <link rel="alternate" hreflang="ru" href="https://developer-not-found-404.epilogic.studio/ru" />
+    <link rel="alternate" hreflang="zh" href="https://developer-not-found-404.epilogic.studio/zh" />
+    <link
+      rel="alternate"
+      hreflang="x-default"
+      href="https://developer-not-found-404.epilogic.studio/"
+    />
+
+    <meta property="og:type" content="website" />
+    <meta property="og:site_name" content="Epilogic Studio" />
+    <meta property="og:title" content="404: Developer Not Found" />
+    <meta
+      property="og:description"
+      content="An interactive detective thriller where you investigate a disappearance, uncover secrets, and decide what to believe."
+    />
+    <meta property="og:url" content="https://developer-not-found-404.epilogic.studio/" />
+    <meta property="og:locale" content="en_US" />
+
+    <!-- Share previews in messengers and social apps are built by crawlers that
+         never run the bundle, so the card image is declared here as an absolute
+         URL rather than left to the client. -->
+    <meta
+      property="og:image"
+      content="https://developer-not-found-404.epilogic.studio/og-image.png"
+    />
+    <meta property="og:image:type" content="image/png" />
+    <meta property="og:image:width" content="1200" />
+    <meta property="og:image:height" content="630" />
+    <meta
+      property="og:image:alt"
+      content="404: Developer Not Found"
+    />
+
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta
+      name="twitter:image"
+      content="https://developer-not-found-404.epilogic.studio/og-image.png"
+    />
+    <meta name="twitter:title" content="404: Developer Not Found" />
+    <meta
+      name="twitter:description"
+      content="An interactive detective thriller where you investigate a disappearance, uncover secrets, and decide what to believe."
+    />
+
+    <script type="application/ld+json">
+      {
+        "@context": "https://schema.org",
+        "@type": "VideoGame",
+        "name": "404: Developer Not Found",
+        "url": "https://developer-not-found-404.epilogic.studio/",
+        "description": "An interactive detective thriller where you investigate a disappearance, uncover secrets, and decide what to believe.",
+        "genre": ["Detective", "Mystery", "Interactive fiction"],
+        "gamePlatform": "Web browser",
+        "playMode": ["SinglePlayer", "CoOp"],
+        "applicationCategory": "Game",
+        "operatingSystem": "Any",
+        "inLanguage": ["en", "de", "es", "ru", "zh"],
+        "publisher": {
+          "@type": "Organization",
+          "name": "EPILOGIC STUDIO",
+          "url": "https://epilogic.studio/"
+        },
+        "offers": {
+          "@type": "Offer",
+          "price": "45.00",
+          "priceCurrency": "USD",
+          "availability": "https://schema.org/InStock",
+          "url": "https://developer-not-found-404.epilogic.studio/#pricing"
+        }
+      }
+    </script>
+  </head>
+  <body>
+    <div id="root"></div>
+    <noscript>
+      <h1>404: Developer Not Found</h1>
+      <p>
+        An interactive detective thriller where you investigate a disappearance, uncover
+        secrets, and decide what to believe.
+      </p>
+      <p>
+        404: Developer Not Found is an interactive browser game. Please enable JavaScript to
+        play it.
+      </p>
+    </noscript>
+    <script type="module" src="/src/main.tsx"></script>
+  </body>
+</html>

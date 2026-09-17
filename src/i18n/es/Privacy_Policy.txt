@@ -1,0 +1,411 @@
+# Aviso de privacidad (Shift LLC)
+
+# **Política de privacidad**
+
+Actualizado: 2025-07-24
+
+SHIFT LLC («nosotros», «nuestro», «nos») protege tu privacidad. Esta Política explica cómo SHIFT LLC recolecta, usa y divulga tus datos personales.
+
+Aplica a nuestro sitio y subdominios asociados (en conjunto, el «Servicio») y a la aplicación SHIFT LLC. Al usar el Servicio, confirmas que leíste, entendiste y aceptas la recolección, almacenamiento, uso y divulgación de tus datos personales según esta Política y los Términos de servicio.
+
+## **Definiciones y términos clave**
+
+Para que el lenguaje sea claro, cada vez que aparezcan estos términos significan lo siguiente:
+
+- **Cookie:** pequeña cantidad de datos que un sitio guarda en el navegador. Sirve para identificar el navegador, dar analítica y recordar datos como el idioma o el login.
+- **Empresa:** cuando la política dice «Empresa», «nosotros», «nos» o «nuestro», se refiere a SHIFT LLC, responsable de tu información bajo esta Política.
+- **Cliente:** la empresa, organización o persona que se registra para usar el Servicio de SHIFT LLC y gestionar relaciones con sus consumidores o usuarios.
+- **Dispositivo:** cualquier equipo con internet —teléfono, tablet, computadora u otro— con el que puedes visitar SHIFT LLC y usar los servicios.
+- **Dirección IP:** cada dispositivo conectado a internet recibe un número de Protocolo de Internet. Suelen asignarse por bloques geográficos. La IP a menudo permite estimar desde dónde se conecta un dispositivo.
+- **Personal:** personas empleadas por SHIFT LLC o contratadas para prestar un servicio en nombre de una de las partes.
+- **Datos personales:** cualquier información que, de forma directa, indirecta o junto con otros datos —incluido un número de identificación— permite identificar a una persona física.
+- **Servicio:** el servicio de SHIFT LLC descrito en los términos aplicables, si existen, y en esta plataforma.
+- **Servicio de terceros:** anunciantes, sponsors de concursos, partners de promo y marketing, y otros que aportan nuestro contenido o cuyos productos o servicios pueden interesarte.
+- **Sitio:** el sitio de SHIFT LLC en https://developer-not-found-404.epilogic.studio/
+- **Tú:** persona o entidad registrada en SHIFT LLC para usar los Servicios.
+
+## **¿Qué información recolectamos?**
+
+Recolectamos datos cuando visitas el sitio, te registras, haces un pedido, te suscribes al newsletter, respondes una encuesta o llenas un formulario.
+
+- Nombre / nombre de usuario
+- Números de teléfono
+- Direcciones de email
+- Direcciones de facturación
+- Números de tarjeta de débito/crédito
+- Contraseña
+
+## **¿Cómo usamos la información que recolectamos?**
+
+Cualquier dato que recolectemos puede usarse para:
+
+- Personalizar tu experiencia (los datos nos ayudan a responder mejor a lo que necesitas)
+- Mejorar el sitio (seguimos afinando la oferta con la información y el feedback que recibimos)
+- Mejorar el soporte (los datos nos ayudan a atender mejor tus solicitudes)
+- Procesar transacciones
+- Administrar un concurso, promo, encuesta u otra función del sitio
+- Enviar emails periódicos
+
+## **¿Cuándo usa SHIFT LLC datos de usuarios finales de terceros?**
+
+SHIFT LLC recolecta datos de usuarios finales necesarios para prestar los servicios de SHIFT LLC a nuestros clientes.
+
+Los usuarios finales pueden darnos de forma voluntaria información que publicaron en redes sociales. Si nos das esa información, podemos recolectar datos públicos de las redes que indiques. Tú controlas cuánto es público en la configuración de privacidad de esos sitios.
+
+## **¿Cuándo usa SHIFT LLC datos de clientes de terceros?**
+
+Recibimos algunos datos de terceros cuando nos contactas. Por ejemplo, si nos dejas tu email para mostrar interés en ser cliente de SHIFT LLC, podemos recibir datos de un tercero que da detección automática de fraude. A veces recolectamos información pública de redes sociales. Tú controlas cuánto es público en la configuración de privacidad de esos sitios.
+
+## **¿Compartimos la información recolectada con terceros?**
+
+Podemos compartir datos personales y no personales con terceros como anunciantes, sponsors de concursos, partners de promo y marketing, y otros que aportan nuestro contenido o cuyos productos pueden interesarte. También con empresas afiliadas actuales y futuras y partners de negocio. Si hay fusión, venta de activos u otra reorganización, podemos transferir datos personales y no personales a los sucesores.
+
+Podemos contratar a proveedores de confianza para hosting y mantenimiento de servidores y del sitio, bases de datos, email, marketing, procesamiento de tarjetas, soporte y cumplimiento de pedidos. Es probable que les demos datos personales y, a veces, no personales, para que presten esos servicios.
+
+Podemos compartir partes de logs, incluidas IPs, con partners de analítica, desarrolladores de apps y redes de anuncios. Si se comparte la IP, puede usarse para estimar ubicación general y datos técnicos: velocidad de conexión, acceso desde un lugar compartido y tipo de dispositivo. Pueden agregar información sobre publicidad y lo que ves en el sitio, y darnos auditoría, research y reportes a nosotros y a anunciantes.
+
+También podemos divulgar datos personales y no personales a autoridades, fuerzas de seguridad o particulares cuando, a nuestro criterio, sea necesario para responder a reclamaciones o procesos legales, incluidas citaciones; proteger nuestros derechos e intereses o los de un tercero; proteger la seguridad pública o de cualquier persona; impedir actividad ilegal, no ética o perseguible; o cumplir órdenes, leyes y normas.
+
+## **¿Dónde y cuándo se recolectan datos de clientes y usuarios finales?**
+
+SHIFT LLC recolecta los datos personales que nos envías. También podemos recibir datos personales sobre ti de terceros, como se describe arriba.
+
+## **¿Cómo usamos tu email?**
+
+Al enviar tu email en este sitio, aceptas recibir emails nuestros. Puedes cancelar tu participación en cualquier lista en cualquier momento con el enlace de baja u otra opción de opt-out en el email. Solo escribimos a quienes nos autorizaron a contactarlos, de forma directa o a través de un tercero. No enviamos emails comerciales no solicitados.
+
+Al enviar tu email, también aceptas que lo usemos para audiencias en sitios como Facebook, donde podemos mostrar anuncios a quienes aceptaron recibir nuestras comunicaciones.
+
+Un email indicado solo en la página de pedido se usa únicamente para información y updates de tu pedido. Si diste el mismo email por otro medio, podemos usarlo para cualquiera de los fines de esta Política.
+
+Si en algún momento quieres darte de baja, las instrucciones están al pie de cada email.
+
+## **¿Cuánto tiempo guardamos tu información?**
+
+Guardamos tus datos solo mientras los necesitamos para prestar los servicios de SHIFT LLC y cumplir los fines de esta Política. Lo mismo aplica a quienes reciben datos y prestan servicios en nuestro nombre.
+
+Cuando ya no los necesitemos y no haya obligación legal de conservarlos, los eliminamos de nuestros sistemas o los despersonalizamos para que ya no se te pueda identificar.
+
+## **¿Cómo protegemos tu información?**
+
+Aplicamos medidas de seguridad para proteger tus datos personales cuando haces un pedido o ingresas, envías o accedes a tu información.
+
+Usamos servidores seguros. Los datos sensibles y de pago se transmiten con SSL y se cifran en las bases de los proveedores de pago. Solo acceden personas autorizadas, obligadas a confidencialidad.
+
+Tras una transacción, no retenemos datos privados de pago, incluidas tarjetas y otros datos financieros, salvo que la retención sea necesaria por motivos operativos, legales o regulatorios.
+
+No podemos garantizar la seguridad absoluta de la información que envías a SHIFT LLC ni que los datos del Servicio no se accedan, divulguen, alteren o destruyan por una falla de salvaguardas físicas, técnicas u organizativas.
+
+## **¿Pueden transferirse mis datos a otros países?**
+
+Los datos recolectados por el sitio, el contacto directo o el soporte pueden transferirse a nuestras oficinas, personal o proveedores en distintos países.
+
+Tu información puede procesarse, verse o alojarse en países con leyes de protección de datos distintas a las de tu país. Cuando lo exige la ley, usamos salvaguardas adecuadas para transferencias internacionales.
+
+Al usar el Servicio, reconoces que tus datos pueden transferirse y procesarse a nivel internacional, como se describe en esta Política.
+
+## **¿Es segura la información recolectada a través del Servicio de SHIFT LLC?**
+
+Tomamos precauciones para proteger tus datos. Mantenemos procedimientos físicos, electrónicos y de gestión para evitar accesos no autorizados, preservar la seguridad y asegurar un uso adecuado.
+
+Ninguna persona, sistema ni cifrado es totalmente seguro. Hay delitos, errores y fallos al seguir políticas. Por eso, aunque protegemos tus datos personales de forma razonable, no podemos garantizar seguridad absoluta.
+
+Si la ley nos impone un deber no renunciable de proteger tus datos personales, el cumplimiento se evalúa según los estándares de esa ley.
+
+## **¿Puedo actualizar o corregir mi información?**
+
+Los derechos para pedir actualizaciones o correcciones de los datos que recolecta SHIFT LLC dependen de tu relación con SHIFT LLC. El personal puede actualizar o corregir datos según las políticas internas de empleo.
+
+Los clientes pueden contactarnos para:
+
+1. Actualizar o corregir datos de identificación personal.
+2. Cambiar preferencias de comunicaciones y otras informaciones que reciben de nosotros.
+3. Pedir la eliminación de datos de identificación personal en nuestros sistemas.
+
+Esas actualizaciones, correcciones, cambios o eliminaciones no afectan otros datos que tenemos derecho u obligación de conservar, ni datos que dimos a terceros según esta Política antes de tu solicitud.
+
+Para proteger tu privacidad y seguridad, podemos verificar tu identidad antes de dar acceso o hacer correcciones. Tú eres responsable de la confidencialidad de contraseñas y datos de cuenta.
+
+Puede no ser técnicamente posible borrar de inmediato cada registro de todos nuestros sistemas. Pueden quedar copias temporales en backups que protegen contra pérdida accidental.
+
+Tras una solicitud válida, los datos personales en bases que usamos de forma activa y en otros medios fácilmente buscables se actualizarán, corregirán, cambiarán o eliminarán, según corresponda, tan pronto como sea razonable y técnicamente posible.
+
+Si eres usuario final y quieres actualizar, borrar o recibir datos que tenemos sobre ti, escríbenos a support@epilogic.com.
+
+## **Personal**
+
+Si trabajas o postulas en SHIFT LLC, recolectamos la información que nos das de forma voluntaria. La usamos para Recursos Humanos, incluidos beneficios y selección.
+
+Puedes contactarnos para:
+
+1. Actualizar o corregir tus datos.
+2. Cambiar preferencias de comunicación.
+3. Recibir un registro de la información que tenemos sobre ti.
+
+Esas actualizaciones, correcciones, cambios o eliminaciones no afectan otros datos que tenemos derecho u obligación de conservar, ni datos que dimos a terceros según esta Política antes de tu solicitud.
+
+## **Venta del negocio**
+
+Nos reservamos el derecho de transferir información a un tercero en una venta, fusión, adquisición, reestructuración, quiebra u otra transferencia de todos o casi todos los activos de SHIFT LLC o de sus Afiliadas, incluida la parte del negocio a la que pertenece el Servicio.
+
+El tercero adquirente deberá procesar los datos personales según esta Política o avisar de cambios materiales.
+
+## **Afiliadas**
+
+Podemos divulgar información, incluidos datos personales, a nuestras Afiliadas.
+
+En esta Política, «Afiliada» es cualquier persona o entidad que controla, es controlada o está bajo control común con SHIFT LLC, de forma directa o indirecta, incluso por titularidad.
+
+Los datos personales que demos a Afiliadas se procesan según esta Política.
+
+## **Ley aplicable**
+
+Al usar SHIFT LLC o contactarnos de forma directa, reconoces que leíste esta Política.
+
+Esta Política y las disputas sobre privacidad o datos personales se rigen por las leyes aplicables, sin perjuicio de derechos imperativos de consumo o protección de datos en tu jurisdicción.
+
+Si no estás de acuerdo con esta Política, no uses el sitio ni los servicios.
+
+Seguir usando el sitio después de que los cambios entren en vigor significa que reconoces la Política actualizada.
+
+## **Tu consentimiento**
+
+Publicamos esta Política para explicar qué información puede recolectarse cuando visitas el sitio y cómo puede usarse.
+
+Cuando la base legal sea el consentimiento, puedes retirarlo en cualquier momento en support@epilogic.com. El retiro no afecta la licitud del tratamiento anterior.
+
+Al usar el sitio, crear una cuenta o comprar, reconoces que leíste esta Política.
+
+## **Enlaces a otros sitios**
+
+Esta Política aplica solo a los Servicios.
+
+Los Servicios pueden incluir enlaces a sitios que SHIFT LLC no opera ni controla. No respondemos por el contenido, la exactitud, las prácticas de privacidad ni las opiniones de sitios de terceros.
+
+Si sigues un enlace de los Servicios a otro sitio, esta Política deja de aplicar. Tu navegación e interacción allí se rigen por sus propias reglas y políticas.
+
+Los sitios de terceros pueden usar cookies, tracking u otros métodos para recolectar datos sobre ti.
+
+## **Cookies**
+
+SHIFT LLC usa cookies para identificar las zonas del sitio que visitaste y ofrecer funciones esenciales y opcionales.
+
+Una cookie es un dato pequeño que el navegador guarda en tu computadora o móvil. Podemos usar cookies para:
+
+- Operar funciones esenciales del sitio.
+- Recordar preferencias.
+- Mantener sesiones.
+- Entender cómo se usa el Servicio.
+- Mejorar el rendimiento y las funciones del sitio.
+- Apoyar analítica y marketing cuando esté permitido.
+
+Algunas cookies son necesarias para el Servicio. Otras, incluidas las de analítica o publicidad, pueden exigir tu consentimiento según tu ubicación.
+
+La mayoría de los navegadores permiten desactivar o limitar cookies. Desactivarlas puede impedir que partes del sitio funcionen bien.
+
+No guardamos a propósito datos personales sensibles dentro de las cookies.
+
+## **Bloqueo y desactivación de cookies y tecnologías similares**
+
+Puedes configurar el navegador para bloquear cookies y tecnologías similares. Bloquear cookies esenciales puede impedir que el sitio funcione bien y limitar funciones.
+
+Bloquear cookies también puede quitar o impedir guardar datos como el login o las preferencias.
+
+Cada navegador tiene controles distintos. Desactivar una cookie no siempre la borra. Puede que debas eliminar las cookies existentes en la configuración del navegador.
+
+Consulta la ayuda de tu navegador para más detalles.
+
+## **Remarketing**
+
+Podemos usar remarketing o retargeting cuando la ley lo permita y, si hace falta, con tu consentimiento.
+
+El remarketing muestra anuncios a quienes ya visitaron un sitio. Las plataformas de publicidad pueden usar cookies o tecnologías similares para saber si visitaste nuestro sitio.
+
+Puedes optar por no recibir publicidad personalizada en el navegador, en las preferencias de cookies o en la privacidad de la plataforma de anuncios.
+
+## **Datos de pago**
+
+Los pagos del Servicio pueden procesarlos proveedores de pago o un Merchant of Record.
+
+Los procesadores pueden recolectar nombre, datos de facturación, método de pago, información de la transacción, IP y datos para prevenir fraude y cumplir la ley.
+
+SHIFT LLC, en general, no guarda de forma directa los datos completos de la tarjeta. El pago lo procesa y guarda el proveedor según su propia política de privacidad, estándares de seguridad y obligaciones legales.
+
+## **Privacidad de menores**
+
+El Servicio no está dirigido a menores de 13 años.
+
+No recolectamos a sabiendas datos personales de menores de 13 años. Si eres padre, madre o tutor y crees que un menor nos dio Datos personales, escríbenos a support@epilogic.com.
+
+Si nos enteramos de que recolectamos Datos personales de un menor de 13 años sin el consentimiento parental requerido, tomaremos medidas razonables para quitar esa información de nuestros sistemas.
+
+En algunas jurisdicciones aplica una edad mínima más alta. Cuando la ley lo exija, las personas por debajo de esa edad deben obtener permiso de un padre, madre o tutor legal.
+
+## **Cambios a esta Política de privacidad**
+
+Podemos modificar esta Política en cualquier momento para reflejar cambios en servicios, prácticas, políticas, tecnologías o requisitos legales.
+
+La Política actualizada se publica con una fecha de vigencia revisada.
+
+Cuando la ley lo exija, daremos aviso adicional de cambios materiales.
+
+Si sigues usando los servicios después de la fecha de vigencia de una Política actualizada, reconoces los términos nuevos. Si no estás de acuerdo, deja de usar los Servicios.
+
+## **Servicios de terceros**
+
+Podemos mostrar, incluir, integrar o dar acceso a contenido, información, aplicaciones, productos o servicios de terceros («Servicios de terceros»).
+
+Pueden incluir procesadores de pago, hosting, envío de email, analítica, prevención de fraude, plataformas de soporte y publicidad.
+
+No respondemos por las prácticas independientes de privacidad, seguridad, contenido, disponibilidad, exactitud, legalidad u operación de los Servicios de terceros.
+
+El uso de Servicios de terceros se rige por los términos, condiciones y políticas de privacidad del tercero.
+
+## **Facebook Pixel**
+
+Podemos usar Meta Pixel, antes Facebook Pixel, o tecnologías publicitarias similares cuando la ley lo permita y, si hace falta, tras tu consentimiento.
+
+Meta Pixel puede ayudarnos a:
+
+- Medir la efectividad de la publicidad.
+- Entender acciones en el sitio.
+- Crear audiencias de anuncios.
+- Mostrar anuncios relevantes.
+- Analizar conversiones y uso del sitio.
+
+Meta puede recolectar datos del dispositivo, del navegador, IPs, identificadores de cookie e información sobre acciones en nuestro sitio.
+
+Los datos recolectados con Meta Pixel se procesan según las políticas de privacidad aplicables de Meta. Puedes controlar la publicidad personalizada en la privacidad de Meta y en nuestros controles de cookies.
+
+## **Tecnologías de tracking**
+
+Podemos usar estas tecnologías de tracking y almacenamiento:
+
+- **Cookies:** para funciones esenciales, recordar preferencias, analizar el uso del sitio y apoyar marketing opcional cuando esté permitido.
+- **Local Storage:** el almacenamiento local, a veces llamado DOM storage, permite a las web apps guardar datos en el navegador. Puede usarse para preferencias, sesión y estado de la app.
+- **Sesiones:** SHIFT LLC usa tecnologías de sesión para operar el Servicio e identificar acciones durante una visita.
+- **Analítica:** tools de analítica para entender cómo interactúan las visitas, detectar problemas técnicos y mejorar el rendimiento.
+- **Publicidad:** cuando esté permitido y, si hace falta, con consentimiento, podemos usar píxeles o tecnologías similares para medir campañas y mostrar anuncios relevantes.
+
+Puedes controlar el tracking no esencial con nuestros controles de cookies, el navegador o la configuración de las plataformas de terceros.
+
+## **Información sobre el Reglamento General de Protección de Datos (GDPR)**
+
+Podemos recolectar y usar datos personales de personas en el Espacio Económico Europeo (EEE), el Reino Unido u otras jurisdicciones con leyes similares de protección de datos.
+
+### **¿Qué es el GDPR?**
+
+El Reglamento General de Protección de Datos es una ley de la UE que regula cómo las organizaciones recolectan, usan, almacenan, comparten y protegen los datos personales de personas en el EEE.
+
+### **¿Qué son los datos personales?**
+
+Datos personales son cualquier información relativa a una persona física identificada o identificable.
+
+Pueden incluir:
+
+- Nombres.
+- Direcciones de email.
+- Direcciones IP.
+- Identificadores de dispositivo.
+- Datos de facturación.
+- Datos de cuenta.
+- Actividad online.
+- Datos de ubicación.
+- Otra información que identifique a una persona de forma directa o indirecta.
+
+### **Bases legales del tratamiento**
+
+Cuando aplica el GDPR, tratamos datos personales bajo una o más de estas bases:
+
+- **Ejecución de un contrato:** el tratamiento es necesario para prestar el Servicio, procesar una compra, entregar el acceso al juego o responder a una solicitud.
+- **Interés legítimo:** el tratamiento es necesario para intereses de negocio razonables, como mejorar el Servicio, prevenir fraude, proteger sistemas y dar soporte, si esos intereses no quedan anulados por tus derechos.
+- **Consentimiento:** diste consentimiento a un tipo concreto de tratamiento, como cierta analítica, emails de marketing o cookies de publicidad.
+- **Obligación legal:** el tratamiento es necesario para cumplir impuestos, contabilidad, regulación, prevención de fraude u otras exigencias legales.
+
+### **Principios de protección de datos**
+
+Cuando aplica el GDPR, los datos personales deben:
+
+- Tratarse de forma lícita, leal y transparente.
+- Recolectarse para fines determinados, explícitos y legítimos.
+- Limitarse a lo necesario para esos fines.
+- Ser exactos y, cuando corresponda, estar actualizados.
+- Conservarse no más de lo necesario.
+- Protegerse con medidas de seguridad adecuadas.
+- Tratarse de modo que la organización pueda demostrar el cumplimiento.
+
+### **Tus derechos GDPR**
+
+Sujeto a la ley aplicable, puedes:
+
+- Acceder a tus datos personales.
+- Corregir datos personales inexactos.
+- Pedir la eliminación de tus datos personales.
+- Restringir cierto tratamiento.
+- Oponerte a cierto tratamiento.
+- Recibir ciertos datos personales en un formato portable.
+- Retirar el consentimiento en cualquier momento.
+- Presentar una queja ante una autoridad de protección de datos competente.
+
+Para ejercer estos derechos, escríbenos a support@epilogic.com.
+
+## **Derechos de la persona interesada — acceso, portabilidad y eliminación**
+
+Nos comprometemos a responder solicitudes válidas según la ley aplicable.
+
+Según tu ubicación, puedes pedirnos:
+
+- Confirmar si tratamos tus datos personales.
+- Darte acceso a tus datos personales.
+- Corregir información inexacta o incompleta.
+- Eliminar datos personales cuando la ley lo exija.
+- Restringir u oponerte a cierto tratamiento.
+- Entregar información elegible en un formato estructurado, de uso común y legible por máquina.
+- Explicar las categorías y fines del tratamiento.
+- Identificar categorías de destinatarios con quienes se comparte información.
+
+Puede que debamos verificar tu identidad antes de completar una solicitud.
+
+Podemos conservar cierta información cuando sea necesario para:
+
+- Completar transacciones.
+- Detectar y prevenir fraude.
+- Proteger derechos legales.
+- Cumplir impuestos, contabilidad, regulación u otras obligaciones legales.
+- Resolver disputas.
+- Hacer cumplir acuerdos.
+- Mantener seguridad y backups.
+
+Responderemos en el plazo que exija la ley. Cuando aplica el GDPR, en general respondemos en un mes, aunque el plazo puede ampliarse si la ley lo permite ante solicitudes complejas o numerosas.
+
+Para enviar una solicitud, escribe a support@epilogic.com.
+
+## **Residentes de California**
+
+Las leyes de privacidad de California pueden exigirnos divulgar las categorías de Información Personal que recolectamos, los fines de uso, las fuentes de las que se obtiene y las categorías de terceros con quienes se comparte.
+
+Eso se describe a lo largo de esta Política.
+
+Sujeto a la ley aplicable, las personas residentes en California pueden tener estos derechos:
+
+- **Derecho a saber y acceder:** puedes pedir información sobre las categorías y piezas concretas de Información Personal que hemos recolectado sobre ti.
+- **Derecho a corregir:** puedes pedir la corrección de Información Personal inexacta.
+- **Derecho a eliminar:** puedes pedir la eliminación de Información Personal, con excepciones legales.
+- **Derecho a la portabilidad:** puedes pedir información elegible en un formato portable.
+- **Derecho a optar por no participar:** puedes oponerte a ciertas ventas o al sharing de Información Personal para publicidad conductual entre contextos.
+- **Derecho a limitar:** puedes limitar ciertos usos de Información Personal Sensible.
+- **Derecho a un servicio igual:** no te discriminaremos de forma ilegal por ejercer tus derechos de privacidad.
+
+No vendemos Información Personal a cambio de dinero.
+
+Según las tecnologías del sitio, ciertas divulgaciones publicitarias pueden calificar como «sharing» bajo la ley de California. Cuando aplique, puedes gestionar ese tratamiento con los controles de cookies o privacidad.
+
+Para ejercer tus derechos, escríbenos a support@epilogic.com. Podemos verificar tu identidad antes de completar la solicitud.
+
+## **Contacto**
+
+Si tienes preguntas sobre esta Política o nuestras prácticas de privacidad, escríbenos.
+
+Sitio: https://developer-not-found-404.epilogic.studio/
+
+Email: support@epilogic.com
