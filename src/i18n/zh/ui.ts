@@ -7,16 +7,16 @@ export const zh: DeepString<En> = {
     label: "语言",
   },
   meta: {
-    landingTitle: "404: Creator Not Found — 浏览器侦探游戏",
+    landingTitle: "404: Developer Not Found — 浏览器侦探游戏",
     landingDescription:
       "创作者失踪了。审问嫌疑人、破解密码、找出隐藏文件。浏览器侦探游戏，2–3 小时。可单人，也可和朋友一起。",
-    termsTitle: "服务条款 — 404: Creator Not Found",
-    privacyTitle: "隐私政策 — 404: Creator Not Found",
-    refundTitle: "退款政策 — 404: Creator Not Found",
-    paymentSuccessTitle: "支付成功 — 404: Creator Not Found",
-    paymentErrorTitle: "支付失败 — 404: Creator Not Found",
+    termsTitle: "服务条款 — 404: Developer Not Found",
+    privacyTitle: "隐私政策 — 404: Developer Not Found",
+    refundTitle: "退款政策 — 404: Developer Not Found",
+    paymentSuccessTitle: "支付成功 — 404: Developer Not Found",
+    paymentErrorTitle: "支付失败 — 404: Developer Not Found",
   },
-  brand: "404: Creator Not Found",
+  brand: "404: Developer Not Found",
   page: {
     ctaSearch: "开始搜寻",
     ctaReady: "我准备好了！",
@@ -113,7 +113,7 @@ export const zh: DeepString<En> = {
   },
   docs: {
     navLabel: "文档导航",
-    back: "返回 404: Creator Not Found",
+    back: "返回 404: Developer Not Found",
     copyright: "© SHIFT LLC",
     nav: [
       { to: "/terms", label: "条款" },

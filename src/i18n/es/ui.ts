@@ -7,16 +7,16 @@ export const es: DeepString<En> = {
     label: "Idioma",
   },
   meta: {
-    landingTitle: "404: Creator Not Found — detective en el navegador",
+    landingTitle: "404: Developer Not Found — detective en el navegador",
     landingDescription:
       "Un creator desapareció. Interroga sospechosos, rompe contraseñas y halla archivos ocultos. Detective en el navegador, 2–3 horas. Solo o con amigos.",
-    termsTitle: "Términos — 404: Creator Not Found",
-    privacyTitle: "Privacidad — 404: Creator Not Found",
-    refundTitle: "Reembolsos — 404: Creator Not Found",
-    paymentSuccessTitle: "Pago correcto — 404: Creator Not Found",
-    paymentErrorTitle: "Pago fallido — 404: Creator Not Found",
+    termsTitle: "Términos — 404: Developer Not Found",
+    privacyTitle: "Privacidad — 404: Developer Not Found",
+    refundTitle: "Reembolsos — 404: Developer Not Found",
+    paymentSuccessTitle: "Pago correcto — 404: Developer Not Found",
+    paymentErrorTitle: "Pago fallido — 404: Developer Not Found",
   },
-  brand: "404: Creator Not Found",
+  brand: "404: Developer Not Found",
   page: {
     ctaSearch: "Empezar la búsqueda",
     ctaReady: "¡Estoy listo!",
@@ -136,7 +136,7 @@ export const es: DeepString<En> = {
   },
   docs: {
     navLabel: "Navegación de documentos",
-    back: "Volver a 404: Creator Not Found",
+    back: "Volver a 404: Developer Not Found",
     copyright: "© SHIFT LLC",
     nav: [
       { to: "/terms", label: "Términos" },

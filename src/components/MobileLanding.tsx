@@ -13,13 +13,15 @@ import Frame6 from "@/imports/6V2"
 import Frame7 from "@/imports/7V2"
 import Frame8 from "@/imports/8V2"
 import Frame9 from "@/imports/9V2"
-import svgPaths11 from "@/imports/11V2/svg-we3evo8zed"
+import Artwork from "@/components/Artwork"
+import useArtworkAlts from "@/hooks/useArtworkAlts"
+import artFaq from "@/assets/artwork/mobile-faq.svg"
 
 // The mobile / tablet composition: a full-bleed poster sequence of 390px-wide
-// frames. Like the desktop canvas, its headlines are vector artwork rather than
-// live text, so the typography is pixel-identical to the design. Every frame
-// except the composite one is contained in a viewport-tall slot, so a single
-// screen is in view at a time and the rhythm stays constant.
+// frames. Headlines are vector artwork served as images; their transcribed
+// copy is the `alt`. Every frame except the composite one is contained in a
+// viewport-tall slot, so a single screen is in view at a time and the rhythm
+// stays constant.
 
 // One coherent page system: a single content column shared by every section.
 // v2 frames bake their own text gutters + full-frame-width imagery in, so the
@@ -97,6 +99,8 @@ export default function MobileLanding({
 }: {
   onOpenPaywall: () => void
 }) {
+  const alts = useArtworkAlts()
+
   return (
     <>
       <div>
@@ -128,7 +132,7 @@ export default function MobileLanding({
             overlay={
               <CtaOverlay
                 href="#pricing"
-                label="Start the search"
+                label={alts.ctaSearch}
                 style={{
                   left: CTA_LEFT,
                   top: "88.74%",
@@ -165,7 +169,7 @@ export default function MobileLanding({
             overlay={
               <CtaOverlay
                 href="#pricing"
-                label="I'm ready"
+                label={alts.ctaReady}
                 style={{
                   left: CTA_LEFT,
                   top: "88.91%",
@@ -199,7 +203,7 @@ export default function MobileLanding({
             overlay={
               <CtaOverlay
                 onClick={onOpenPaywall}
-                label="Start the investigation"
+                label={alts.ctaBuy}
                 style={{
                   left: "10.51%",
                   top: "82.58%",
@@ -216,27 +220,11 @@ export default function MobileLanding({
           label="Got questions? Ask them here"
           className="flex min-h-dvh flex-col justify-center px-5 py-10 sm:px-8"
         >
-          <div role="img" aria-label="Got questions? Ask them here.">
-            <svg
-              className="mx-auto block h-auto w-[78.46%] max-w-[471px]"
-              fill="none"
-              viewBox="0 0 306 285.635"
-              preserveAspectRatio="xMidYMid meet"
-            >
-              <path
-                clipRule="evenodd"
-                d={svgPaths11.p5a5800}
-                fill="#FBF9F6"
-                fillRule="evenodd"
-              />
-              <path
-                clipRule="evenodd"
-                d={svgPaths11.p233700}
-                fill="#BD3133"
-                fillRule="evenodd"
-              />
-            </svg>
-          </div>
+          <Artwork
+            src={artFaq}
+            alt={alts.faq}
+            className="mx-auto block h-auto w-[78.46%] max-w-[471px]"
+          />
           <div className="mt-10">
             <FaqChat />
           </div>

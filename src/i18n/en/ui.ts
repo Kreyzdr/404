@@ -3,16 +3,16 @@ export const en = {
     label: "Language",
   },
   meta: {
-    landingTitle: "404: Creator Not Found — Browser Detective Game",
+    landingTitle: "404: Developer Not Found — Browser Detective Game",
     landingDescription:
-      "A creator has vanished. Interrogate suspects, crack passwords and uncover hidden documents in a 2–3 hour browser detective game. Play solo or with friends.",
-    termsTitle: "Terms of Service — 404: Creator Not Found",
-    privacyTitle: "Privacy Policy — 404: Creator Not Found",
-    refundTitle: "Refund Policy — 404: Creator Not Found",
-    paymentSuccessTitle: "Payment successful — 404: Creator Not Found",
-    paymentErrorTitle: "Payment failed — 404: Creator Not Found",
+      "A developer has vanished. Interrogate suspects, crack passwords and uncover hidden documents in a 2–3 hour browser detective game. Play solo or with friends.",
+    termsTitle: "Terms of Service — 404: Developer Not Found",
+    privacyTitle: "Privacy Policy — 404: Developer Not Found",
+    refundTitle: "Refund Policy — 404: Developer Not Found",
+    paymentSuccessTitle: "Payment successful — 404: Developer Not Found",
+    paymentErrorTitle: "Payment failed — 404: Developer Not Found",
   },
-  brand: "404: Creator Not Found",
+  brand: "404: Developer Not Found",
   // Headline copy is transcribed from the original landing artwork. Text wrapped
   // in asterisks is painted in the accent red, exactly as it was in the art.
   page: {
@@ -73,7 +73,7 @@ export const en = {
     faqTitle: "Got questions? *Ask them here*",
   },
   // Alternative text for the scene illustrations. Each one names what the image
-  // shows, since the surrounding headlines are artwork and carry no text.
+  // shows; headline copy lives on the lettering images next to them.
   scenes: {
     dominic:
       "Case board around a portrait of the missing developer: terminal windows, surveillance stills and news clippings",
@@ -139,7 +139,7 @@ export const en = {
   },
   docs: {
     navLabel: "Document navigation",
-    back: "Back to 404: Creator Not Found",
+    back: "Back to 404: Developer Not Found",
     copyright: "© SHIFT LLC",
     nav: [
       { to: "/terms", label: "Terms" },

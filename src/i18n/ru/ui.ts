@@ -7,16 +7,16 @@ export const ru: DeepString<En> = {
     label: "Язык",
   },
   meta: {
-    landingTitle: "404: Creator Not Found — детектив в браузере",
+    landingTitle: "404: Developer Not Found — детектив в браузере",
     landingDescription:
       "Создатель исчез. Допрашивай подозреваемых, взламывай пароли и ищи скрытые документы. Детектив в браузере на 2–3 часа. Один или с друзьями.",
-    termsTitle: "Условия использования — 404: Creator Not Found",
-    privacyTitle: "Политика конфиденциальности — 404: Creator Not Found",
-    refundTitle: "Политика возврата — 404: Creator Not Found",
-    paymentSuccessTitle: "Оплата прошла — 404: Creator Not Found",
-    paymentErrorTitle: "Оплата не прошла — 404: Creator Not Found",
+    termsTitle: "Условия использования — 404: Developer Not Found",
+    privacyTitle: "Политика конфиденциальности — 404: Developer Not Found",
+    refundTitle: "Политика возврата — 404: Developer Not Found",
+    paymentSuccessTitle: "Оплата прошла — 404: Developer Not Found",
+    paymentErrorTitle: "Оплата не прошла — 404: Developer Not Found",
   },
-  brand: "404: Creator Not Found",
+  brand: "404: Developer Not Found",
   page: {
     ctaSearch: "Начать поиск",
     ctaReady: "Я готов!",
@@ -135,7 +135,7 @@ export const ru: DeepString<En> = {
   },
   docs: {
     navLabel: "Навигация по документам",
-    back: "Назад к 404: Creator Not Found",
+    back: "Назад к 404: Developer Not Found",
     copyright: "© SHIFT LLC",
     nav: [
       { to: "/terms", label: "Условия" },

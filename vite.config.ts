@@ -10,6 +10,7 @@ import {
   HTML_LANG,
   LOCALES,
   OG_LOCALE,
+  type DeepString,
   type Locale,
 } from "./src/i18n/types.ts"
 import { de } from "./src/i18n/de/ui.ts"
@@ -17,11 +18,7 @@ import { en } from "./src/i18n/en/ui.ts"
 import { es } from "./src/i18n/es/ui.ts"
 import { ru } from "./src/i18n/ru/ui.ts"
 import { zh } from "./src/i18n/zh/ui.ts"
-import {
-  landingOutline,
-  landingOutlineHtml,
-  type LandingMessages,
-} from "./src/lib/landingOutline.ts"
+type LandingMessages = DeepString<typeof en>
 
 const SITE_ORIGIN = "https://developer-not-found-404.epilogic.studio"
 
@@ -72,9 +69,7 @@ function setMetaContent(
 /**
  * Share previews and crawlers read the document that was served, and this app
  * localizes its tags only after the bundle runs. So every prebuilt shell is
- * rewritten for the locale and the route it is served from, and the landing
- * shells additionally carry the page copy as markup, since the visible
- * headlines are artwork with no text in them.
+ * rewritten for the locale and the route it is served from.
  */
 function localizeShell(html: string, lang: Locale, route: string): string {
   const messages = CATALOGS[lang]
@@ -98,13 +93,6 @@ function localizeShell(html: string, lang: Locale, route: string): string {
   result = setMetaContent(result, 'property="og:url"', url)
   result = setMetaContent(result, 'name="twitter:title"', title)
   result = setMetaContent(result, 'name="twitter:description"', description)
-
-  if (route === "") {
-    result = result.replace(
-      '<div id="root"></div>',
-      `<div id="root"></div>\n    ${landingOutlineHtml(landingOutline(messages))}`,
-    )
-  }
 
   return result
 }
