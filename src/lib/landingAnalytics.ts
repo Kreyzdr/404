@@ -21,7 +21,7 @@ function resolveApiBase(): string {
   if (isLocalEnvironment()) {
     return "http://127.0.0.1:3001";
   }
-  return "https://dev-games.epilogic.studio";
+  return "https://games.epilogic.studio";
 }
 
 export function resolvePaymentCreateLinkUrl(): string {

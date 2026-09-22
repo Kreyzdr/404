@@ -37,11 +37,26 @@ function createHeadingId(value: string) {
 
 function renderInlineText(text: string): ReactNode[] {
   const parts = text.split(
-    /(\*\*[^*]+\*\*|https?:\/\/[^\s]+|[\w.+-]+@[\w.-]+\.[A-Za-z]{2,})/g,
+    /(\[[^\]]+\]\(https?:\/\/[^)\s]+\)|\*\*[^*]+\*\*|https?:\/\/[^\s]+|[\w.+-]+@[\w.-]+\.[A-Za-z]{2,})/g,
   )
 
   return parts.map((part, index) => {
     if (!part) return null
+
+    const markdownLink = part.match(/^\[([^\]]+)\]\((https?:\/\/[^)\s]+)\)$/)
+    if (markdownLink) {
+      return (
+        <a
+          key={index}
+          href={markdownLink[2]}
+          target="_blank"
+          rel="noreferrer noopener"
+          className="text-cream underline decoration-hair underline-offset-4 transition-colors hover:decoration-accent"
+        >
+          {markdownLink[1]}
+        </a>
+      )
+    }
 
     if (part.startsWith("**") && part.endsWith("**")) {
       return <strong key={index}>{part.slice(2, -2)}</strong>
@@ -53,7 +68,12 @@ function renderInlineText(text: string): ReactNode[] {
 
       return (
         <Fragment key={index}>
-          <a href={url} target="_blank" rel="noreferrer noopener">
+          <a
+            href={url}
+            target="_blank"
+            rel="noreferrer noopener"
+            className="text-cream underline decoration-hair underline-offset-4 transition-colors hover:decoration-accent"
+          >
             {url}
           </a>
           {punctuation}

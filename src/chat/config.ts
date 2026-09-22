@@ -2,8 +2,8 @@ function trimSlash(value: string) {
   return value.replace(/\/$/, "");
 }
 
-const DEFAULT_HTTP = "https://dev-games.epilogic.studio";
-const DEFAULT_WS = "wss://dev-games.epilogic.studio";
+const DEFAULT_HTTP = "https://games.epilogic.studio";
+const DEFAULT_WS = "wss://games.epilogic.studio";
 const DEFAULT_BOT_ID = "812e1c5b-4609-4fa5-bb64-f3a2e05bca12";
 
 const httpFromEnv = (import.meta.env.VITE_PROMO_API_HTTP || "").trim();

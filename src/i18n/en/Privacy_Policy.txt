@@ -198,6 +198,7 @@ A cookie is a small piece of data stored on your computer or mobile device by yo
 - Understand how users interact with the Service.
 - Improve the performance and functionality of the website.
 - Support analytics and marketing activities where permitted.
+- We use Meta Pixel to measure and improve our advertising. This shares data about your visit with Meta Platforms, Inc. See [Meta's Privacy Policy](https://www.facebook.com/privacy/policy/) for details.
 
 Some cookies are necessary for the Service to function. Other cookies, including analytics or advertising cookies, may require your consent depending on your location.
 

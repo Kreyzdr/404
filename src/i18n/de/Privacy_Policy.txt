@@ -198,6 +198,7 @@ Ein Cookie ist ein kleines Datenstück, das dein Browser auf Computer oder Handy
 - zu verstehen, wie Nutzerinnen und Nutzer mit dem Dienst interagieren.
 - Leistung und Funktionen der Website zu verbessern.
 - Analyse und Marketing zu unterstützen, soweit zulässig.
+- Wir verwenden das Meta Pixel, um unsere Werbung zu messen und zu verbessern. Dabei teilen wir Daten über deinen Besuch mit Meta Platforms, Inc. Einzelheiten stehen in der [Datenschutzrichtlinie von Meta](https://www.facebook.com/privacy/policy/).
 
 Manche Cookies sind für den Dienst nötig. Andere, einschließlich Analyse- oder Werbe-Cookies, können je nach deinem Standort eine Einwilligung erfordern.
 

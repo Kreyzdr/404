@@ -198,6 +198,7 @@ Cookie 是浏览器存储在计算机或移动设备上的一小段数据。我�
 - 了解用户如何与服务互动。
 - 改进网站性能和功能。
 - 在允许的范围内支持分析和营销。
+- 我们使用 Meta Pixel 衡量并改进广告。这会将您的访问数据分享给 Meta Platforms, Inc.。详情请参阅 [Meta 隐私政策](https://www.facebook.com/privacy/policy/)。
 
 部分 Cookie 对服务运行是必要的。其他 Cookie（包括分析或广告 Cookie）可能因您所在地区需要征得同意。
 
