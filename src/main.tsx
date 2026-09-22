@@ -3,6 +3,7 @@ import ReactDOM from "react-dom/client"
 import App from "./App"
 import { LocaleProvider } from "@/i18n"
 import { capturePaymentAttribution } from "@/lib/paymentAttribution"
+import "./consent"
 import "./index.css"
 
 capturePaymentAttribution()

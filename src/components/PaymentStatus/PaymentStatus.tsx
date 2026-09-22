@@ -29,6 +29,13 @@ export default function PaymentStatus({ variant }: PaymentStatusProps) {
       >
         {t("payment.back")}
       </a>
+      <button
+        type="button"
+        onClick={() => window.openCookieSettings()}
+        className="mt-8 cursor-pointer border-0 bg-transparent p-0 font-label text-xs uppercase tracking-[0.16em] text-cream/55 underline-offset-4 hover:text-cream hover:underline"
+      >
+        {t("footer.cookieSettings")}
+      </button>
     </div>
   )
 }

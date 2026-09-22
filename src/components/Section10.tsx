@@ -1,5 +1,5 @@
 import type { ReactNode } from "react"
-import ViewportFrame from "@/components/ViewportFrame"
+import FrameScaler from "@/components/FrameScaler"
 import Artwork from "@/components/Artwork"
 import useArtworkAlts from "@/hooks/useArtworkAlts"
 import usePricingReveal, { revealClass } from "@/hooks/usePricingReveal"
@@ -30,7 +30,8 @@ export default function Section10({ overlay }: { overlay?: ReactNode }) {
 
   return (
     <div ref={ref}>
-      <ViewportFrame height={844} overlay={overlay}>
+      <div className="relative">
+        <FrameScaler height={844}>
         <div className="relative size-full" data-name="10v2_state2">
           {/* black background */}
           <div className="absolute left-0 top-0 h-[844px] w-[390px] bg-black" />
@@ -106,7 +107,9 @@ export default function Section10({ overlay }: { overlay?: ReactNode }) {
             <Artwork src={artBenefit6} alt={alts.benefits[5]} className={FILL} />
           </div>
         </div>
-      </ViewportFrame>
+        </FrameScaler>
+        {overlay}
+      </div>
     </div>
   )
 }

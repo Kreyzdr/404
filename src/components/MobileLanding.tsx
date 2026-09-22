@@ -1,6 +1,5 @@
 import type { CSSProperties, ReactNode } from "react"
 import FrameScaler from "@/components/FrameScaler"
-import ViewportFrame from "@/components/ViewportFrame"
 import FaqChat from "@/components/FaqChat"
 import Section10 from "@/components/Section10"
 
@@ -19,9 +18,8 @@ import artFaq from "@/assets/artwork/mobile-faq.svg"
 
 // The mobile / tablet composition: a full-bleed poster sequence of 390px-wide
 // frames. Headlines are vector artwork served as images; their transcribed
-// copy is the `alt`. Every frame except the composite one is contained in a
-// viewport-tall slot, so a single screen is in view at a time and the rhythm
-// stays constant.
+// copy is the `alt`. Each frame scales with the column width and keeps its
+// own height, so the page scrolls continuously.
 
 // One coherent page system: a single content column shared by every section.
 // v2 frames bake their own text gutters + full-frame-width imagery in, so the
@@ -94,6 +92,23 @@ function CtaOverlay({
 const CTA_LEFT = "10.77%"
 const CTA_WIDTH = "78.46%"
 
+function Screen({
+  height,
+  children,
+  overlay,
+}: {
+  height: number
+  children: ReactNode
+  overlay?: ReactNode
+}) {
+  return (
+    <div className="relative">
+      <FrameScaler height={height}>{children}</FrameScaler>
+      {overlay}
+    </div>
+  )
+}
+
 export default function MobileLanding({
   onOpenPaywall,
 }: {
@@ -106,28 +121,28 @@ export default function MobileLanding({
       <div>
         {/* 1 — 404 hero */}
         <Section label="Not found">
-          <ViewportFrame height={844}>
+          <Screen height={844}>
             <Frame1 />
-          </ViewportFrame>
+          </Screen>
         </Section>
 
         {/* 2 — Finally, a challenge for your brain */}
         <Section id="story" label="A challenge for your brain">
-          <ViewportFrame height={788}>
+          <Screen height={788}>
             <Frame2 />
-          </ViewportFrame>
+          </Screen>
         </Section>
 
         {/* 3 — What if big tech is hiding something? */}
         <Section label="What if big tech is hiding something">
-          <ViewportFrame height={790}>
+          <Screen height={790}>
             <Frame3 />
-          </ViewportFrame>
+          </Screen>
         </Section>
 
         {/* 4 — AI-developer is gone missing (+ START THE SEARCH → pricing) */}
         <Section label="An AI developer is gone missing">
-          <ViewportFrame
+          <Screen
             height={844}
             overlay={
               <CtaOverlay
@@ -143,12 +158,10 @@ export default function MobileLanding({
             }
           >
             <Frame4 />
-          </ViewportFrame>
+          </Screen>
         </Section>
 
-        {/* 5 — Get to the bottom of it (hack / media / chat). The one composite
-            frame: it holds three separate scenes, so it keeps the width-only
-            scaler instead of being squeezed into a single viewport. */}
+        {/* 5 — Get to the bottom of it (hack / media / chat). */}
         <Section label="Get to the bottom of it">
           <FrameScaler height={1718}>
             <Frame5 />
@@ -157,14 +170,14 @@ export default function MobileLanding({
 
         {/* 6 — This is not for you if you */}
         <Section label="This is not for you if you">
-          <ViewportFrame height={881}>
+          <Screen height={881}>
             <Frame6 />
-          </ViewportFrame>
+          </Screen>
         </Section>
 
         {/* 7 — Complex characters and tough decisions (+ I'M READY → pricing) */}
         <Section id="characters" label="Complex characters and tough decisions">
-          <ViewportFrame
+          <Screen
             height={902}
             overlay={
               <CtaOverlay
@@ -180,21 +193,21 @@ export default function MobileLanding({
             }
           >
             <Frame7 />
-          </ViewportFrame>
+          </Screen>
         </Section>
 
         {/* 8 — Challenging and rewarding quests */}
         <Section label="Challenging and rewarding quests">
-          <ViewportFrame height={817}>
+          <Screen height={817}>
             <Frame8 />
-          </ViewportFrame>
+          </Screen>
         </Section>
 
         {/* 9 — 3+ hours of deep immersion */}
         <Section label="Hours of deep immersion">
-          <ViewportFrame height={770}>
+          <Screen height={770}>
             <Frame9 />
-          </ViewportFrame>
+          </Screen>
         </Section>
 
         {/* 10 — The full case. $45. + timed bullet reveal + paywall CTA */}
@@ -218,7 +231,7 @@ export default function MobileLanding({
         {/* 11 — Got questions? Ask them here + FAQ chat */}
         <Section
           label="Got questions? Ask them here"
-          className="flex min-h-dvh flex-col justify-center px-5 py-10 sm:px-8"
+          className="px-5 py-16 sm:px-8"
         >
           <Artwork
             src={artFaq}

@@ -288,6 +288,13 @@ export default function DocumentPage({
           >
             {t("docs.back")}
           </a>
+          <button
+            type="button"
+            onClick={() => window.openCookieSettings()}
+            className="cursor-pointer border-0 bg-transparent p-0 text-left text-cream underline-offset-4 hover:underline"
+          >
+            {t("footer.cookieSettings")}
+          </button>
         </footer>
       </main>
     </div>

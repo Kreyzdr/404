@@ -114,6 +114,7 @@ export const ru: DeepString<En> = {
       studio: "Студия",
     },
     contact: "Написать нам",
+    cookieSettings: "Настройки cookies",
     copyright: "©2026 EPILOGIC STUDIO",
     address:
       "SHIFT LLC. 5, street 17, Argel, Nor Hachn, Kotayk region, 2404, RA",

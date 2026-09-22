@@ -61,6 +61,13 @@ export default function SiteFooter({ onOpenContact }: SiteFooterProps) {
                   {item.label}
                 </a>
               ))}
+              <button
+                type="button"
+                onClick={() => window.openCookieSettings()}
+                className={`${linkClass} text-left`}
+              >
+                {t("footer.cookieSettings")}
+              </button>
             </div>
 
             <div className={columnClass}>

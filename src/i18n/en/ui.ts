@@ -118,6 +118,7 @@ export const en = {
       studio: "Studio",
     },
     contact: "Contact",
+    cookieSettings: "Cookie settings",
     copyright: "©2026 EPILOGIC STUDIO",
     address:
       "SHIFT LLC. 5, street 17, Argel, Nor Hachn, Kotayk region, 2404, RA",
