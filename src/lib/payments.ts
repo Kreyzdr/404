@@ -1,11 +1,15 @@
 import {
-  LANDING_ANALYTICS_HOST,
   resolvePaymentCreateLinkUrl,
   resolveWebVisitorId,
 } from "@/lib/landingAnalytics";
 import { getPaymentAttribution } from "@/lib/paymentAttribution";
+import { SITE_URL } from "@/lib/site";
 
-/** Backend game record: price, currency and return URLs are resolved from it. */
+/** The payments API builds the post-checkout redirect as
+    `https://{from}/payment-success`. This must be the public site. */
+const PAYMENT_RETURN_HOST = new URL(SITE_URL).host;
+
+/** Backend game record: price and currency are resolved from it. */
 export const PAYMENT_GAME_ID = "79a7471b-e72e-4458-8dd4-619581409477";
 
 /** Captain Labs paywall for 404: Developer Not Found. */
@@ -28,7 +32,7 @@ function readObject(value: unknown): Record<string, unknown> | undefined {
 }
 
 export async function createPaymentLink(email: string): Promise<PaymentLinkResult> {
-  const { vid, from } = getPaymentAttribution();
+  const { vid } = getPaymentAttribution();
 
   try {
     const response = await fetch(resolvePaymentCreateLinkUrl(), {
@@ -42,7 +46,7 @@ export async function createPaymentLink(email: string): Promise<PaymentLinkResul
         game_id: PAYMENT_GAME_ID,
         paywall_id: PAYMENT_PAYWALL_ID,
         vid: vid || resolveWebVisitorId(),
-        from: from || LANDING_ANALYTICS_HOST,
+        from: PAYMENT_RETURN_HOST,
       }),
     });
 
