@@ -241,6 +241,18 @@ html[data-locale="zh"] .headline {
   color: var(--color-accent);
 }
 
+.cookie-banner--relaxed .cookie-banner__close {
+  top: 4px;
+  right: 8px;
+  padding: 0 2px;
+  color: var(--color-accent);
+  font-size: 40px;
+}
+
+.cookie-banner--relaxed .cookie-banner__close:hover {
+  color: var(--color-accent-hover);
+}
+
 .cookie-banner__main {
   display: flex;
   align-items: center;

@@ -7,7 +7,7 @@ export const zh: DeepString<En> = {
     label: "语言",
   },
   meta: {
-    landingTitle: "404: Developer Not Found — 浏览器侦探游戏",
+    landingTitle: "404: Developer Not Found — AI 侦探游戏",
     landingDescription:
       "创作者失踪了。审问嫌疑人、破解密码、找出隐藏文件。浏览器侦探游戏，2–3 小时。可单人，也可和朋友一起。",
     termsTitle: "服务条款 — 404: Developer Not Found",
@@ -21,7 +21,7 @@ export const zh: DeepString<En> = {
     ctaSearch: "开始搜寻",
     ctaReady: "我准备好了！",
     ctaBuy: "开始调查",
-    price: "$45.",
+    price: "$15.",
     heroKicker: "404:",
     heroTitle: "开发者未找到",
     heroTagline: "新一代 AI 侦探游戏",
@@ -95,7 +95,7 @@ export const zh: DeepString<En> = {
     cookieSettings: "Cookie 设置",
     copyright: "©2026 EPILOGIC STUDIO",
     address:
-      "SHIFT LLC. 5, street 17, Argel, Nor Hachn, Kotayk region, 2404, RA",
+      "Kobaltstack LLC\n447 Broadway, 2nd Floor, 3436, New York, NY 10013, New York, US",
     main: [
       { label: "剧情", href: "/#story" },
       { label: "角色", href: "/#characters" },
@@ -146,7 +146,7 @@ export const zh: DeepString<En> = {
     kicker: "完成购买",
     title: "侦探执照",
     points: ["2–3 小时", "单人或组队", "即时开通"],
-    priceLabel: "价格：45 美元",
+    priceLabel: "价格：15 美元",
     terms: "一次付清 · 无订阅 · 无需下载",
     delivery: "支付成功后，游戏链接会发到你的 Email。",
     email: "Email",

@@ -1,16 +1,33 @@
-```txt
-# Política de reembolsos (Shift LLC)
+# Política de reembolsos
 
-## Garantía de 20 días
+Última actualización: 17 de agosto de 2026
 
-Tu satisfacción es prioridad. En todos los productos digitales comprados en el sitio hay una garantía de reembolso de 20 días. Si la compra digital no te convence, pide el reembolso total dentro de los 20 días desde la fecha de compra, sin preguntas.
+Gracias por usar 404: Developer Not Found, operado bajo Kobaltstack LLC. Queremos que tengas una buena experiencia con el Servicio, y esta política explica cómo funcionan los reembolsos y las cancelaciones.
 
-## Cómo pedir un reembolso
+Al realizar una compra a través de 404: Developer Not Found, aceptas esta Política de reembolsos junto con nuestros Términos de servicio y nuestra Política de privacidad.
 
-1. **Contacto:** escribe a support@epilogic.com. Incluye el número de pedido. El motivo es opcional.
-2. **Proceso:** al recibir la solicitud, la procesamos en 7 días. El importe vuelve al método de pago original. El plazo en el extracto depende del proveedor de pagos.
+Si no estás satisfecho con el Servicio por cualquier motivo, contáctanos primero: con gusto te ayudamos a resolverlo.
 
-## Más información
+## Reembolsos
 
-Queremos que tu experiencia con los productos digitales sea buena. Si tienes preguntas o necesitas ayuda, escribe a support@epilogic.com.
-```
+Puedes solicitar un reembolso dentro de los 14 días siguientes a la fecha de compra original. Los reembolsos aprobados se emiten al método de pago original y se procesan dentro de los 14 días siguientes a la aprobación.
+
+Tus derechos legales como consumidor, incluidos los plazos de desistimiento o cancelación exigidos por las leyes de tu país de residencia, no se ven afectados por esta política y siempre prevalecen sobre ella.
+
+## Planes y pruebas gratuitos
+
+Las funciones o planes marcados como «Free» no implican una transacción monetaria y, por tanto, no están sujetos a reembolso.
+
+## Cómo solicitar un reembolso
+
+Para solicitar un reembolso, escríbenos a [support@epilogic.com](mailto:support@epilogic.com) con los datos del pedido (email usado en la compra, fecha aproximada y motivo de la solicitud). Procuramos responder en un plazo de 2 días hábiles.
+
+## Excepciones
+
+Podemos rechazar una solicitud de reembolso cuando haya indicios de fraude, abuso de esta política u otra conducta manipuladora.
+
+Si compraste a través de una plataforma de terceros (por ejemplo, Chrome Web Store u otra tienda de aplicaciones), la política de reembolsos de esa plataforma rige tu compra en lugar de esta.
+
+## Contacto
+
+Las preguntas sobre esta Política de reembolsos pueden dirigirse a: [support@epilogic.com](mailto:support@epilogic.com)

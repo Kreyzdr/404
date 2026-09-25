@@ -210,7 +210,7 @@ export default function MobileLanding({
           </Screen>
         </Section>
 
-        {/* 10 — The full case. $45. + timed bullet reveal + paywall CTA */}
+        {/* 10 — The full case. $15. + timed bullet reveal + paywall CTA */}
         <Section id="pricing" label="The full case pricing">
           <Section10
             overlay={

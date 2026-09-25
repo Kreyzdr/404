@@ -1,11 +1,40 @@
-import { readLocaleFromLocation } from "./i18n/localePath"
+import { localizeHref, readLocaleFromLocation } from "./i18n/localePath"
 import type { Locale } from "./i18n/types"
 
 const CONSENT_COOKIE = "epilogic_consent"
 const PIXEL_ID = "2225771411320162"
 const MAX_AGE_SECONDS = 60 * 60 * 24 * 183
-const PRIVACY_URL =
-  "https://developer-not-found-404.epilogic.studio/privacy-policy/#cookie-policy"
+const GEO_URL = "https://get.geojs.io/v1/ip/country.json"
+const STRICT_COUNTRIES = new Set([
+  "AT",
+  "BE",
+  "BG",
+  "HR",
+  "CY",
+  "CZ",
+  "DK",
+  "EE",
+  "FI",
+  "FR",
+  "DE",
+  "GR",
+  "HU",
+  "IE",
+  "IT",
+  "LV",
+  "LT",
+  "LU",
+  "MT",
+  "NL",
+  "PL",
+  "PT",
+  "RO",
+  "SK",
+  "SI",
+  "ES",
+  "SE",
+  "GB",
+])
 
 type Consent = {
   necessary: true
@@ -103,11 +132,40 @@ function applyConsent(consent: Consent | null) {
   }
 }
 
-window.track = (name, params = {}, custom = false) => {
+let strictRegion = true
+
+function marketingAllowed(): boolean {
   const consent = getConsent()
+  if (consent) return consent.marketing
+  return !strictRegion
+}
+
+window.track = (name, params = {}, custom = false) => {
   const fbq = window.fbq as ((...args: unknown[]) => void) | undefined
-  if (!consent?.marketing || !fbq) return
+  if (!marketingAllowed() || !fbq) return
   fbq(custom ? "trackCustom" : "track", name, params)
+}
+
+function regionOverride(): boolean | null {
+  const value = new URLSearchParams(location.search).get("consentRegion")
+  if (value === "eu") return true
+  if (value === "other") return false
+  return null
+}
+
+async function isStrictRegion(): Promise<boolean> {
+  const override = regionOverride()
+  if (override !== null) return override
+  try {
+    const response = await fetch(GEO_URL)
+    if (!response.ok) return true
+    const data = (await response.json()) as { country?: string }
+    const code = data.country?.toUpperCase()
+    if (!code) return true
+    return STRICT_COUNTRIES.has(code)
+  } catch {
+    return true
+  }
 }
 
 const BANNER_COPY: Record<
@@ -217,6 +275,12 @@ function currentLocale(): Locale {
   return readLocaleFromLocation()
 }
 
+function privacyHref(): string {
+  const path = localizeHref("/privacy-policy#cookie-policy", currentLocale())
+  const base = import.meta.env.BASE_URL.replace(/\/$/, "")
+  return `${base}${path}`.replace(/([^:]\/)\/+/g, "$1")
+}
+
 function el<K extends keyof HTMLElementTagNameMap>(
   tag: K,
   className: string,
@@ -266,6 +330,7 @@ function render(next: "notice" | "settings") {
     document.body.appendChild(root)
   }
   root.classList.toggle("cookie-banner--settings", next === "settings")
+  root.classList.toggle("cookie-banner--relaxed", !strictRegion)
   root.setAttribute("aria-label", next === "settings" ? copy.settingsTitle : copy.title)
   root.replaceChildren()
   appendClose(copy.close)
@@ -276,9 +341,7 @@ function render(next: "notice" | "settings") {
     text.append(el("p", "cookie-banner__title", copy.title))
     text.append(el("p", "cookie-banner__copy", copy.body))
     const privacy = el("a", "cookie-banner__link", copy.privacy)
-    privacy.href = PRIVACY_URL
-    privacy.target = "_blank"
-    privacy.rel = "noopener"
+    privacy.href = privacyHref()
     text.append(privacy)
 
     const actions = el("div", "cookie-banner__actions")
@@ -313,7 +376,7 @@ function render(next: "notice" | "settings") {
   const marketing = el("label", "cookie-banner__row")
   const marketingInput = document.createElement("input")
   marketingInput.type = "checkbox"
-  marketingInput.checked = getConsent()?.marketing ?? false
+  marketingInput.checked = getConsent()?.marketing ?? !strictRegion
   marketing.append(marketingInput, el("span", "cookie-banner__row-copy"))
   const marketingCopy = marketing.querySelector("span")!
   marketingCopy.append(el("span", "cookie-banner__row-name", copy.marketing))
@@ -338,5 +401,12 @@ new MutationObserver(() => {
 }).observe(document.documentElement, { attributes: true, attributeFilter: ["lang"] })
 
 const existing = getConsent()
-if (existing) applyConsent(existing)
-else render("notice")
+if (existing) {
+  applyConsent(existing)
+} else {
+  void isStrictRegion().then((strict) => {
+    strictRegion = strict
+    if (!strict) loadMetaPixel()
+    render("notice")
+  })
+}

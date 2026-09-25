@@ -1,412 +1,100 @@
-# Datenschutzhinweis (Shift LLC)
+# Datenschutzerklärung
 
-# **Datenschutzerklärung**
+Zuletzt aktualisiert: 17. August 2026
 
-Aktualisiert: 2025-07-24
+404: Developer Not Found (der „Dienst“) wird unter Kobaltstack LLC betrieben („Unternehmen“, „wir“, „unser“ oder „uns“). Diese Datenschutzerklärung erläutert, wie wir personenbezogene Daten erheben, nutzen und offenlegen, wenn du 404: Developer Not Found nutzt.
 
-SHIFT LLC („wir“, „unser“, „uns“) schützt deine Privatsphäre. Diese Erklärung beschreibt, wie SHIFT LLC personenbezogene Daten erhebt, nutzt und weitergibt.
+Mit dem Zugriff auf oder der Nutzung von 404: Developer Not Found stimmst du der Erhebung, Speicherung, Nutzung und Offenlegung deiner Daten zu, wie in dieser Datenschutzerklärung und in unseren AGB beschrieben.
 
-Sie gilt für unsere Website und zugehörige Subdomains (zusammen der „Dienst“) sowie für die Anwendung SHIFT LLC. Mit der Nutzung des Dienstes bestätigst du, dass du gelesen, verstanden und akzeptiert hast, wie wir personenbezogene Daten erheben, speichern, nutzen und weitergeben — wie in dieser Erklärung und in den AGB beschrieben.
+## Definitionen
 
-## **Definitionen und wichtige Begriffe**
+* Unternehmen: Kobaltstack LLC, die für deine Daten nach dieser Datenschutzerklärung verantwortliche Stelle.
+* Dienst: 404: Developer Not Found, einschließlich Website und Anwendung.
+* Gerät: jedes internetfähige Gerät, mit dem du auf den Dienst zugreifst.
+* Personenbezogene Daten: alle Informationen, die direkt oder indirekt die Identifizierung einer natürlichen Person ermöglichen.
+* Du: die natürliche oder juristische Person, die den Dienst nutzt.
 
-Damit die Formulierungen eindeutig sind, gelten in dieser Erklärung folgende Bedeutungen:
+## Welche Daten wir erheben
 
-- **Cookie:** kleine Datenmenge, die eine Website im Browser speichert. Dient zur Erkennung des Browsers, zur Analyse und zum Speichern von Angaben wie Sprache oder Login.
-- **Unternehmen:** wenn von „Unternehmen“, „wir“, „uns“ oder „unser“ die Rede ist, ist SHIFT LLC gemeint, verantwortlich für deine Daten nach dieser Erklärung.
-- **Kundin / Kunde:** Unternehmen, Organisation oder Person, die den SHIFT-LLC-Dienst nutzt, um Beziehungen zu Verbraucherinnen, Verbrauchern oder Nutzerinnen, Nutzern zu verwalten.
-- **Gerät:** jedes internetfähige Gerät — Handy, Tablet, Computer oder anderes —, mit dem du SHIFT LLC aufrufst und Dienste nutzt.
-- **IP-Adresse:** jedes mit dem Internet verbundene Gerät erhält eine Internet-Protocol-Adresse. Diese Nummern werden oft geografisch vergeben. Über die IP lässt sich oft der ungefähre Standort der Verbindung erkennen.
-- **Personal:** Personen, die bei SHIFT LLC beschäftigt sind oder vertraglich für eine der Parteien tätig werden.
-- **Personenbezogene Daten:** alle Informationen, die direkt, indirekt oder zusammen mit anderen Angaben — einschließlich einer Kennnummer — eine natürliche Person identifizieren oder identifizierbar machen.
-- **Dienst:** die von SHIFT LLC erbrachte Leistung, beschrieben in den jeweiligen Bedingungen (sofern vorhanden) und auf dieser Plattform.
-- **Dienst Dritter:** Werbetreibende, Gewinnspiel-Sponsoren, Promo- und Marketingpartner und andere, die unsere Inhalte bereitstellen oder deren Produkte und Dienste dich interessieren könnten.
-- **Website:** die Site von SHIFT LLC unter https://developer-not-found-404.epilogic.studio/
-- **Du:** Person oder Organisation, die bei SHIFT LLC für die Nutzung der Dienste registriert ist.
+Wenn du 404: Developer Not Found besuchst, ein Konto erstellst oder einen Kauf tätigst, können wir Folgendes erheben:
 
-## **Welche Daten erheben wir?**
+* Name / Benutzername
+* E-Mail-Adresse
+* Rechnungsadresse
+* Zahlungskartendaten (verarbeitet über unseren Zahlungsanbieter)
+* Passwort / Kontodaten
+* Nutzungsdaten zum Dienst
 
-Wir erheben Angaben, wenn du unsere Website besuchst, dich registrierst, bestellst, den Newsletter abonnierst, an einer Umfrage teilnimmst oder ein Formular ausfüllst.
+## Wie wir diese Daten nutzen
 
-- Name / Nutzername
-- Telefonnummern
-- E-Mail-Adressen
-- Rechnungsadressen
-- Debit-/Kreditkartennummern
-- Passwort
+Wir nutzen die erhobenen Daten, um:
 
-## **Wofür nutzen wir erhobene Daten?**
+* den Dienst bereitzustellen und zu betreiben
+* Transaktionen zu verarbeiten und dein Abonnement zu verwalten
+* Supportanfragen zu beantworten
+* den Dienst zu verbessern und zu personalisieren
+* dienstbezogene und, sofern du zugestimmt hast, Marketing-E-Mails zu senden
 
-Erhobene Angaben können wie folgt genutzt werden:
+## Weitergabe von Daten
 
-- Um dein Erlebnis anzupassen (Daten helfen uns, besser auf deine Bedürfnisse einzugehen)
-- Um die Website zu verbessern (wir entwickeln Angebote anhand von Infos und Feedback weiter)
-- Um den Support zu verbessern (Daten helfen, Anfragen schneller zu beantworten)
-- Um Zahlungen abzuwickeln
-- Um Gewinnspiele, Aktionen, Umfragen oder andere Site-Funktionen zu betreiben
-- Um regelmäßig E-Mails zu senden
+Wir können deine Daten an vertrauenswürdige Drittanbieter weitergeben, die uns beim Betrieb des Dienstes helfen — einschließlich Hosting, Zahlungsabwicklung, Analyse und Support-Tools. Wir verkaufen deine personenbezogenen Daten nicht.
 
-## **Wann nutzt SHIFT LLC Endnutzerdaten von Dritten?**
+Wir können Daten offenlegen, wenn dies erforderlich ist, um gesetzlichen Pflichten nachzukommen, unsere Vereinbarungen durchzusetzen oder Rechte, Sicherheit oder Eigentum des Unternehmens, unserer Nutzer oder der Öffentlichkeit zu schützen.
 
-SHIFT LLC erhebt Endnutzerdaten, soweit das nötig ist, um SHIFT-LLC-Dienste für unsere Kundinnen und Kunden zu erbringen.
+Ist 404: Developer Not Found oder Kobaltstack LLC an einer Fusion, Übernahme oder einem Vermögensverkauf beteiligt, können deine Daten im Rahmen dieser Transaktion übertragen werden, vorbehaltlich dieser Datenschutzerklärung.
 
-Endnutzerinnen und Endnutzer können uns freiwillig Angaben übermitteln, die sie in sozialen Netzwerken öffentlich gemacht haben. Wenn du uns solche Infos gibst, können wir öffentlich verfügbare Daten von den genannten Plattformen erheben. Wie viel öffentlich ist, steuerst du in den Privatsphäre-Einstellungen dieser Sites.
+## Speicherdauer
 
-## **Wann nutzt SHIFT LLC Kundendaten von Dritten?**
+Wir speichern deine Daten nur so lange, wie es für die Bereitstellung des Dienstes und die in dieser Erklärung beschriebenen Zwecke erforderlich ist oder das Gesetz es verlangt. Werden sie nicht mehr benötigt, löschen oder anonymisieren wir sie.
 
-Einen Teil der Angaben erhalten wir von Dritten, wenn du uns kontaktierst. Wenn du uns z. B. eine E-Mail hinterlässt, um Kundin oder Kunde von SHIFT LLC zu werden, können wir Daten von einem Dienst zur automatisierten Betrugserkennung erhalten. Gelegentlich erheben wir öffentlich verfügbare Infos aus sozialen Netzwerken. Den Umfang steuerst du in den Privatsphäre-Einstellungen dieser Sites.
+## Sicherheit
 
-## **Geben wir erhobene Daten an Dritte weiter?**
+Wir setzen angemessene technische und organisatorische Maßnahmen ein — einschließlich Verschlüsselung bei der Übertragung —, um deine Daten zu schützen. Keine Übertragungs- oder Speichermethode ist vollständig sicher, und wir können absolute Sicherheit nicht garantieren.
 
-Wir können personenbezogene und nicht personenbezogene Daten mit Dritten teilen: Werbetreibenden, Gewinnspiel-Sponsoren, Promo- und Marketingpartnern und anderen, die unsere Inhalte bereitstellen oder deren Produkte dich interessieren könnten. Auch mit aktuellen und künftigen verbundenen Unternehmen und Geschäftspartnern. Bei Fusion, Asset-Verkauf oder anderer Umstrukturierung können wir Daten an Rechtsnachfolger übergeben.
+## Internationale Datenübermittlung
 
-Wir können vertrauenswürdige Dienstleister für Hosting und Betrieb von Servern und Website, Datenbanken, E-Mail, Marketing, Kartenzahlungen, Support und Auftragserfüllung einsetzen. An sie geben wir voraussichtlich personenbezogene und ggf. einige nicht personenbezogene Daten weiter, damit sie Leistungen für uns und dich erbringen können.
+Deine Daten können in anderen Ländern als deinem verarbeitet und gespeichert werden, auch in Ländern mit anderen Datenschutzgesetzen. Mit der Nutzung des Dienstes stimmst du dieser Übermittlung zu.
 
-Wir können Teile von Logdaten einschließlich IP-Adressen zu Analysezwecken an Partner wie Web-Analytics, App-Entwickler und Werbenetzwerke weitergeben. Wird die IP geteilt, kann sie genutzt werden, um den ungefähren Standort und technische Angaben zu schätzen: Verbindungsgeschwindigkeit, Zugriff von einem geteilten Ort, Gerätetyp. Sie können Infos zu Werbung und dem, was du auf der Website siehst, aggregieren und uns sowie Werbetreibenden Audit, Forschung und Reports liefern.
+## Deine Rechte
 
-Wir können personenbezogene und nicht personenbezogene Daten gegenüber Behörden, Strafverfolgung oder privaten Parteien offenlegen, wenn wir das nach eigenem Ermessen für nötig halten: um auf Ansprüche oder rechtliche Verfahren einschließlich Vorladungen zu reagieren; um unsere Rechte und Interessen oder die Dritter zu schützen; um die Sicherheit der Öffentlichkeit oder einer Person zu schützen; um illegale, unethische oder rechtlich verfolgbare Handlungen zu verhindern; oder um Gerichtsbeschlüsse, Gesetze und Vorschriften einzuhalten.
+Je nach deinem Standort hast du möglicherweise das Recht, auf deine personenbezogenen Daten zuzugreifen, sie zu berichtigen, zu löschen oder ihre Nutzung einzuschränken. Um diese Rechte auszuüben, kontaktiere uns unter [support@epilogic.com](mailto:support@epilogic.com).
 
-## **Wo und wann werden Daten von Kundinnen, Kunden und Endnutzerinnen, Endnutzern erhoben?**
+### Europäischer Wirtschaftsraum (DSGVO)
 
-SHIFT LLC erhebt personenbezogene Daten, die du uns übermittelst. Wir können auch personenbezogene Daten über dich von Dritten erhalten, wie oben beschrieben.
+Befindest du dich im EWR, hast du das Recht, auf deine personenbezogenen Daten zuzugreifen, sie zu übertragen, zu berichtigen, zu löschen oder ihre Verarbeitung einzuschränken, wie in der DSGVO vorgesehen. Wir verarbeiten personenbezogene Daten auf den Rechtsgrundlagen Vertragserfüllung, berechtigtes Interesse und Einwilligung, je nach Fall.
 
-## **Wie nutzen wir deine E-Mail?**
+### Einwohner Kaliforniens (CCPA)
 
-Mit der Angabe deiner E-Mail auf dieser Website stimmst du zu, E-Mails von uns zu erhalten. Du kannst dich jederzeit über den Abmeldelink oder eine andere Opt-out-Option in der jeweiligen Mail abmelden. Wir schreiben nur Personen, die uns direkt oder über Dritte zum Kontakt autorisiert haben. Unaufgeforderte Werbe-Mails senden wir nicht.
+Einwohner Kaliforniens haben das Recht zu erfahren, welche personenbezogenen Daten erhoben werden, deren Löschung zu verlangen und dem Verkauf zu widersprechen. Wir verkaufen keine personenbezogenen Daten. Um diese Rechte auszuüben, kontaktiere uns unter [support@epilogic.com](mailto:support@epilogic.com).
 
-Mit der Angabe der E-Mail stimmst du außerdem zu, dass wir sie für Zielgruppen auf Plattformen wie Facebook nutzen dürfen, wo wir angepasste Werbung für Personen zeigen, die dem Erhalt unserer Nachrichten zugestimmt haben.
+## Cookies
 
-Eine E-Mail, die nur auf der Bestellseite angegeben wird, nutzen wir ausschließlich für Infos und Updates zu deiner Bestellung. Hast du dieselbe Adresse auf anderem Weg angegeben, dürfen wir sie für alle in dieser Erklärung genannten Zwecke nutzen.
+404: Developer Not Found verwendet Cookies und ähnliche Technologien, um den Dienst zu betreiben, deine Einstellungen zu speichern und die Nutzung zu verstehen. Du kannst Cookies in den Browsereinstellungen steuern; das Deaktivieren kann einige Funktionen einschränken. Wir nutzen das Meta Pixel, um unsere Werbung zu messen und zu verbessern. Dabei werden Daten über deinen Besuch an Meta Platforms, Inc. übermittelt. Einzelheiten stehen in der Datenschutzerklärung von Meta.
 
-Wenn du dich von künftigen E-Mails abmelden möchtest, findest du die Anleitung am Ende jeder Mail.
+## Datenschutz von Kindern
 
-## **Wie lange speichern wir Daten?**
+Der Dienst richtet sich nicht an Personen unter 13 Jahren, und wir erheben wissentlich keine personenbezogenen Daten von Kindern unter 13. Wenn du glaubst, dass ein Kind uns personenbezogene Daten übermittelt hat, kontaktiere uns unter [support@epilogic.com](mailto:support@epilogic.com).
 
-Wir speichern Daten nur so lange, wie wir sie brauchen, um SHIFT-LLC-Dienste zu erbringen und die Zwecke dieser Erklärung zu erfüllen. Das gilt auch für Stellen, mit denen wir Daten teilen und die Leistungen in unserem Auftrag erbringen.
+## Facebook Pixel
 
-Wenn wir Daten nicht mehr brauchen und keine rechtliche Aufbewahrungspflicht besteht, löschen wir sie aus unseren Systemen oder anonymisieren sie so, dass du nicht mehr identifizierbar bist.
-
-## **Wie schützen wir Daten?**
-
-Wir setzen Sicherheitsmaßnahmen ein, um personenbezogene Daten zu schützen, wenn du bestellst oder Daten eingibst, übermittelst oder abrufst.
-
-Wir nutzen sichere Server. Sensible und Zahlungsdaten werden per SSL übertragen und in den Datenbanken der Zahlungsanbieter verschlüsselt. Zugriff haben nur befugte Personen, die zur Vertraulichkeit verpflichtet sind.
-
-Nach einer Transaktion speichern wir private Zahlungsdaten einschließlich Kartendaten und anderer Finanzdaten nicht, sofern die Speicherung nicht für betriebliche, rechtliche oder regulatorische Zwecke nötig ist.
-
-Wir können die absolute Sicherheit von Informationen, die du an SHIFT LLC übermittelst, nicht gewährleisten und nicht garantieren, dass Daten im Dienst nicht durch einen Bruch physischer, technischer oder organisatorischer Schutzmaßnahmen abgerufen, offengelegt, verändert oder zerstört werden.
-
-## **Können meine Daten in andere Länder übermittelt werden?**
-
-Daten, die über die Website, direkte Kontakte oder den Support erhoben werden, können an unsere Büros, unser Personal oder Dienstleister weltweit übermittelt werden.
-
-Deine Daten können in Ländern verarbeitet, eingesehen oder gehostet werden, deren Datenschutzrecht vom Recht deines Landes abweicht. Soweit das geltende Recht es verlangt, setzen wir geeignete Garantien für internationale Übermittlungen ein.
-
-Mit der Nutzung des Dienstes nimmst du zur Kenntnis, dass Daten international übermittelt und verarbeitet werden können, wie in dieser Erklärung beschrieben.
-
-## **Sind die über den SHIFT-LLC-Dienst erhobenen Daten sicher?**
-
-Wir treffen Vorkehrungen zum Schutz deiner Daten. Es gibt physische, elektronische und organisatorische Verfahren, um unbefugten Zugriff zu verhindern, Datensicherheit zu wahren und eine angemessene Nutzung sicherzustellen.
-
-Kein Mensch, kein System und keine Verschlüsselung ist vollständig sicher. Menschen begehen Straftaten, machen Fehler oder halten Richtlinien nicht ein. Deshalb können wir trotz angemessener Schutzmaßnahmen keine absolute Sicherheit garantieren.
-
-Legt geltendes Recht uns eine unabdingbare Pflicht zum Schutz personenbezogener Daten auf, wird deren Erfüllung nach den Maßstäben dieses Rechts beurteilt.
-
-## **Kann ich Daten aktualisieren oder berichtigen?**
-
-Welche Rechte du auf Aktualisierung oder Berichtigung der von SHIFT LLC erhobenen Daten hast, hängt von deinem Verhältnis zu SHIFT LLC ab. Personal kann Daten gemäß internen HR-Richtlinien aktualisieren oder berichtigen.
-
-Kundinnen und Kunden können uns kontaktieren, um:
-
-1. Personenbezogene Daten zu aktualisieren oder zu berichtigen.
-2. Präferenzen zu Kommunikation und anderen Infos von uns zu ändern.
-3. Die Löschung personenbezogener Daten in unseren Systemen zu verlangen.
-
-Solche Updates, Korrekturen, Änderungen oder Löschungen berühren keine anderen Daten, die wir rechtmäßig speichern dürfen oder müssen, und keine Daten, die wir vor deiner Anfrage gemäß dieser Erklärung an Dritte übermittelt haben.
-
-Zum Schutz deiner Privatsphäre und Sicherheit können wir deine Identität prüfen, bevor wir Zugriff gewähren oder Änderungen vornehmen. Du bist für die Vertraulichkeit von Passwörtern und Kontodaten verantwortlich.
-
-Technisch ist es nicht immer möglich, jede gespeicherte Angabe sofort aus allen Systemen zu entfernen. Kopien können vorübergehend in Backups bleiben, die vor versehentlichem Verlust schützen.
-
-Nach einer gültigen Anfrage werden personenbezogene Daten in aktiv genutzten Datenbanken und anderen leicht durchsuchbaren Medien so bald wie vernünftig und technisch möglich aktualisiert, berichtigt, geändert oder gelöscht.
-
-Bist du Endnutzerin oder Endnutzer und möchtest Daten über dich aktualisieren, löschen oder erhalten, schreib an support@epilogic.com.
-
-## **Personal**
-
-Bist du bei SHIFT LLC beschäftigt oder bewirbst du dich, erheben wir Angaben, die du uns freiwillig gibst. Wir nutzen sie für HR, einschließlich Benefits und Bewerberauswahl.
-
-Du kannst uns kontaktieren, um:
-
-1. Deine Daten zu aktualisieren oder zu berichtigen.
-2. Kommunikationspräferenzen zu ändern.
-3. Eine Auskunft über die Daten zu erhalten, die wir über dich speichern.
-
-Solche Updates, Korrekturen, Änderungen oder Löschungen berühren keine anderen Daten, die wir rechtmäßig speichern dürfen oder müssen, und keine Daten, die wir vor deiner Anfrage gemäß dieser Erklärung an Dritte übermittelt haben.
-
-## **Unternehmensverkauf**
-
-Wir behalten uns vor, Daten im Zusammenhang mit Verkauf, Fusion, Übernahme, Umstrukturierung, Insolvenz oder anderer Übertragung aller oder im Wesentlichen aller Vermögenswerte von SHIFT LLC oder verbundenen Unternehmen an Dritte zu übergeben, einschließlich des Geschäftsteils, zu dem der Dienst gehört.
-
-Der Erwerber muss personenbezogene Daten gemäß dieser Erklärung verarbeiten oder über wesentliche Änderungen angemessen informieren.
-
-## **Verbundene Unternehmen**
-
-Wir können Angaben einschließlich personenbezogener Daten an verbundene Unternehmen weitergeben.
-
-In dieser Erklärung bedeutet „verbundenes Unternehmen“ jede Person oder Organisation, die SHIFT LLC direkt oder indirekt kontrolliert, von SHIFT LLC kontrolliert wird oder unter gemeinsamer Kontrolle steht, auch über Eigentum.
-
-Personenbezogene Daten, die wir an verbundene Unternehmen geben, werden nach dieser Erklärung verarbeitet.
-
-## **Anwendbares Recht**
-
-Mit der Nutzung von SHIFT LLC oder direktem Kontakt bestätigst du, dass du diese Erklärung gelesen hast.
-
-Diese Erklärung und Streitigkeiten zu Privatsphäre oder personenbezogenen Daten unterliegen dem anwendbaren Recht, vorbehaltlich zwingender Verbraucherschutz- oder Datenschutzrechte in deiner Rechtsordnung.
-
-Wenn du mit dieser Erklärung nicht einverstanden bist, solltest du Website und Dienste nicht nutzen.
-
-Die weitere Nutzung der Website nach Wirksamwerden von Änderungen bedeutet, dass du die aktualisierte Erklärung zur Kenntnis nimmst.
-
-## **Deine Einwilligung**
-
-Wir stellen diese Erklärung bereit, damit klar ist, welche Daten beim Besuch der Website erhoben und wie sie genutzt werden können.
-
-Ist die Einwilligung die Rechtsgrundlage der Verarbeitung, kannst du sie jederzeit widerrufen: support@epilogic.com. Der Widerruf berührt nicht die Rechtmäßigkeit der Verarbeitung vor dem Widerruf.
-
-Mit der Nutzung der Website, der Registrierung eines Kontos oder einem Kauf bestätigst du, dass du diese Erklärung gelesen hast.
-
-## **Links zu anderen Websites**
-
-Diese Erklärung gilt nur für die Dienste.
-
-Die Dienste können Links zu Websites enthalten, die nicht von SHIFT LLC betrieben oder kontrolliert werden. Wir sind nicht verantwortlich für Inhalte, Richtigkeit, Datenschutzpraktiken oder Meinungen auf Websites Dritter.
-
-Folgst du einem Link von den Diensten zu einer anderen Website, gilt diese Erklärung nicht mehr. Dein Verhalten dort unterliegt den Regeln und Richtlinien dieser Website.
-
-Websites Dritter können eigene Cookies, Tracking-Technologien oder andere Methoden nutzen, um Daten über dich zu erheben.
-
-## **Cookies**
-
-SHIFT LLC nutzt Cookies, um zu erkennen, welche Bereiche der Website du besucht hast, und um notwendige sowie optionale Funktionen bereitzustellen.
-
-Ein Cookie ist ein kleines Datenstück, das dein Browser auf Computer oder Handy speichert. Wir können Cookies nutzen, um:
-
-- Grundfunktionen der Website zu betreiben.
-- Einstellungen zu merken.
-- Sitzungen zu führen.
-- zu verstehen, wie Nutzerinnen und Nutzer mit dem Dienst interagieren.
-- Leistung und Funktionen der Website zu verbessern.
-- Analyse und Marketing zu unterstützen, soweit zulässig.
-- Wir verwenden das Meta Pixel, um unsere Werbung zu messen und zu verbessern. Dabei teilen wir Daten über deinen Besuch mit Meta Platforms, Inc. Einzelheiten stehen in der [Datenschutzrichtlinie von Meta](https://www.facebook.com/privacy/policy/).
-
-Manche Cookies sind für den Dienst nötig. Andere, einschließlich Analyse- oder Werbe-Cookies, können je nach deinem Standort eine Einwilligung erfordern.
-
-Die meisten Browser erlauben, Cookies zu deaktivieren oder einzuschränken. Das Deaktivieren kann Teile der Website beeinträchtigen.
-
-Wir speichern absichtlich keine sensiblen personenbezogenen Daten direkt in Cookies.
-
-## **Blockieren und Deaktivieren von Cookies und ähnlichen Technologien**
-
-Du kannst den Browser so einstellen, dass Cookies und ähnliche Technologien blockiert werden. Das Blockieren notwendiger Cookies kann die Website beeinträchtigen und den Zugang zu Funktionen einschränken.
-
-Das Blockieren von Cookies kann auch gespeicherte Angaben wie Login oder Einstellungen entfernen oder deren Speicherung verhindern.
-
-Browser bieten unterschiedliche Cookie-Steuerungen. Das Deaktivieren eines Cookies löscht es nicht unbedingt. Vorhandene Cookies musst du ggf. in den Browser-Einstellungen löschen.
-
-Details stehen in der Hilfe deines Browsers.
-
-## **Remarketing**
-
-Wir können Remarketing oder Retargeting nutzen, soweit das geltende Recht es erlaubt und, falls nötig, mit deiner Einwilligung.
-
-Remarketing bedeutet, Werbung Personen zu zeigen, die eine Website zuvor besucht haben. Werbeplattformen können Cookies oder ähnliche Technologien nutzen, um zu erkennen, ob du unsere Website besucht hast.
-
-Personalisierter Werbung kannst du in Browser-, Cookie- oder Privatsphäre-Einstellungen der jeweiligen Werbeplattform widersprechen.
-
-## **Zahlungsdaten**
-
-Zahlungen für den Dienst können durch Zahlungsdienstleister oder einen Merchant of Record abgewickelt werden.
-
-Zahlungsanbieter können Name, Rechnungsdaten, Zahlungsmittel, Transaktionsdaten, IP-Adresse und Angaben zur Betrugsprävention und Rechtskonformität erheben.
-
-SHIFT LLC speichert in der Regel keine vollständigen Kartendaten direkt. Zahlungsdaten werden vom jeweiligen Anbieter gemäß dessen Datenschutzerklärung, Sicherheitsstandards und rechtlichen Pflichten verarbeitet und gespeichert.
-
-## **Datenschutz von Kindern**
-
-Der Dienst richtet sich nicht an Kinder unter 13 Jahren.
-
-Wir erheben wissentlich keine personenbezogenen Daten von Kindern unter 13 Jahren. Bist du Elternteil oder Erziehungsberechtigte, Erziehungsberechtigter und glaubst, dass ein Kind uns personenbezogene Daten übermittelt hat, schreib an support@epilogic.com.
-
-Erfahren wir, dass wir personenbezogene Daten eines Kindes unter 13 Jahren ohne erforderliche elterliche Einwilligung erhoben haben, unternehmen wir angemessene Schritte, um diese Daten aus unseren Systemen zu entfernen.
-
-In manchen Rechtsordnungen gilt ein höheres Mindestalter. Soweit das Recht es verlangt, müssen Nutzerinnen und Nutzer unter diesem Alter die Erlaubnis eines Elternteils oder einer gesetzlichen Vertretung einholen.
-
-## **Änderungen dieser Datenschutzerklärung**
-
-Wir dürfen diese Erklärung jederzeit ändern, um Änderungen an Diensten, Praktiken, Richtlinien, Technologien oder rechtlichen Anforderungen abzubilden.
-
-Die aktualisierte Erklärung wird mit neuem Wirksamkeitsdatum veröffentlicht.
-
-Soweit das Recht es verlangt, weisen wir zusätzlich auf wesentliche Änderungen hin.
-
-Nutzt du die Dienste nach dem Wirksamkeitsdatum einer aktualisierten Erklärung weiter, nimmst du die neuen Bedingungen zur Kenntnis. Wenn du nicht einverstanden bist, solltest du die Dienste nicht weiter nutzen.
-
-## **Dienste Dritter**
-
-Wir können Inhalte, Informationen, Anwendungen, Produkte oder Dienste Dritter anzeigen, einbinden, integrieren oder zugänglich machen („Dienste Dritter“).
-
-Dazu können Zahlungsanbieter, Hosting, E-Mail-Versand, Analytics, Betrugsprävention, Support-Plattformen und Werbung gehören.
-
-Wir sind nicht verantwortlich für unabhängige Datenschutzpraktiken, Sicherheit, Inhalte, Verfügbarkeit, Richtigkeit, Rechtmäßigkeit oder den Betrieb von Diensten Dritter.
-
-Die Nutzung von Diensten Dritter unterliegt den Bedingungen und Datenschutzerklärungen des jeweiligen Dritten.
-
-## **Facebook Pixel**
-
-Wir können das Meta Pixel, früher Facebook Pixel, oder ähnliche Werbetechnologien nutzen, soweit das Recht es erlaubt und, falls nötig, nach deiner Einwilligung.
+Wir können das Meta Pixel, früher als Facebook Pixel bekannt, oder ähnliche Werbetechnologien einsetzen, soweit das geltende Recht es erlaubt und, wo erforderlich, nach Einholung deiner Einwilligung.
 
 Das Meta Pixel kann uns helfen:
 
-- die Wirkung von Werbung zu messen.
-- Aktionen auf der Website zu verstehen.
-- Werbe-Zielgruppen zu bilden.
-- relevante Anzeigen zu zeigen.
-- Conversions und Nutzung der Website zu analysieren.
+* die Wirksamkeit von Werbung zu messen.
+* Handlungen auf unserer Website zu verstehen.
+* Werbezielgruppen zu erstellen.
+* relevante Anzeigen auszuspielen.
+* Conversions und die Website-Nutzung zu analysieren.
 
-Meta kann Geräte-, Browser- und IP-Daten, Cookie-Kennungen und Infos zu Aktionen auf unserer Website erheben.
+Meta kann Geräteinformationen, Browserinformationen, IP-Adressen, Cookie-Kennungen und Informationen über Handlungen auf unserer Website erheben.
 
-Daten über das Meta Pixel werden nach den geltenden Datenschutzerklärungen von Meta verarbeitet. Personalisierte Werbung kannst du in den Privatsphäre-Einstellungen von Meta und über unsere Cookie-Steuerung einschränken.
+Über das Meta Pixel erhobene Daten werden gemäß den geltenden Datenschutzrichtlinien von Meta verarbeitet. Personalisierte Werbung kannst du über die Datenschutzeinstellungen von Meta und unsere Cookie-Einstellungen steuern.
 
-## **Tracking-Technologien**
+## Änderungen dieser Erklärung
 
-Wir können folgende Speicher- und Tracking-Technologien nutzen:
+Wir können diese Datenschutzerklärung von Zeit zu Zeit aktualisieren. Änderungen werden auf dieser Seite mit einem überarbeiteten Datum „Zuletzt aktualisiert“ veröffentlicht. Die weitere Nutzung des Dienstes nach Inkrafttreten der Änderungen gilt als Annahme der aktualisierten Erklärung.
 
-- **Cookies:** für Grundfunktionen, das Speichern von Einstellungen, Nutzungsanalyse und optionales Marketing, soweit zulässig.
-- **Local Storage:** Local Storage (manchmal DOM Storage) erlaubt Web-Apps, Daten lokal im Browser zu speichern. Kann für Einstellungen, Sitzung und Anwendungszustand genutzt werden.
-- **Sitzungen:** SHIFT LLC nutzt Sitzungstechnologien, um den Dienst zu betreiben und Aktionen während eines Besuchs zu erkennen.
-- **Analytics:** Analyse-Tools helfen zu verstehen, wie Besuchende mit dem Dienst interagieren, technische Probleme zu finden und die Leistung zu verbessern.
-- **Werbetechnologien:** Soweit zulässig und, falls nötig, mit Einwilligung können wir Werbe-Pixel oder ähnliche Technologien nutzen, um Kampagnen zu messen und relevante Werbung zu zeigen.
+## Kontakt
 
-Nicht notwendige Tracking-Technologien kannst du über unsere Cookie-Steuerung, Browser-Einstellungen oder Einstellungen der jeweiligen Drittplattformen einschränken.
-
-## **Informationen zur Datenschutz-Grundverordnung (DSGVO)**
-
-Wir können personenbezogene Daten von Personen im Europäischen Wirtschaftsraum (EWR), im Vereinigten Königreich oder in anderen Rechtsordnungen mit vergleichbarem Datenschutzrecht erheben und nutzen.
-
-### **Was ist die DSGVO?**
-
-Die Datenschutz-Grundverordnung ist ein EU-Datenschutzrecht. Sie regelt, wie Organisationen personenbezogene Daten von Menschen im EWR erheben, nutzen, speichern, weitergeben und schützen.
-
-### **Was sind personenbezogene Daten?**
-
-Personenbezogene Daten sind alle Informationen, die sich auf eine identifizierte oder identifizierbare natürliche Person beziehen.
-
-Dazu können gehören:
-
-- Namen.
-- E-Mail-Adressen.
-- IP-Adressen.
-- Gerätekennungen.
-- Rechnungsdaten.
-- Kontodaten.
-- Online-Aktivität.
-- Standortdaten.
-- andere Angaben, anhand derer eine Person direkt oder indirekt erkennbar ist.
-
-### **Rechtsgrundlagen der Verarbeitung**
-
-Soweit die DSGVO gilt, verarbeiten wir personenbezogene Daten auf einer oder mehreren der folgenden Grundlagen:
-
-- **Vertragserfüllung:** Die Verarbeitung ist nötig, um den Dienst zu erbringen, einen Kauf abzuwickeln, Spielzugang zu liefern oder auf eine Anfrage zu antworten.
-- **Berechtigtes Interesse:** Die Verarbeitung ist für angemessene Geschäftsinteressen nötig — Verbesserung des Dienstes, Betrugsprävention, Systemsicherheit und Support —, sofern deine Rechte nicht überwiegen.
-- **Einwilligung:** Du hast in eine bestimmte Verarbeitung eingewilligt, z. B. bestimmte Analytics, Marketing-Mails oder Werbe-Cookies.
-- **Rechtliche Pflicht:** Die Verarbeitung ist nötig, um Steuer-, Buchhaltungs-, Aufsichts-, Betrugspräventions- oder andere Rechtspflichten zu erfüllen.
-
-### **Grundsätze des Datenschutzes**
-
-Soweit die DSGVO gilt, müssen personenbezogene Daten:
-
-- rechtmäßig, fair und transparent verarbeitet werden.
-- für festgelegte, eindeutige und rechtmäßige Zwecke erhoben werden.
-- auf das für diese Zwecke Nötige beschränkt sein.
-- sachlich richtig und nötigenfalls aktuell sein.
-- nicht länger als nötig gespeichert werden.
-- durch geeignete Sicherheitsmaßnahmen geschützt werden.
-- so verarbeitet werden, dass die Organisation die Einhaltung nachweisen kann.
-
-### **Deine DSGVO-Rechte**
-
-Vorbehaltlich geltenden Rechts kannst du:
-
-- Auskunft über deine personenbezogenen Daten verlangen.
-- unrichtige personenbezogene Daten berichtigen lassen.
-- die Löschung personenbezogener Daten verlangen.
-- bestimmte Verarbeitung einschränken.
-- bestimmter Verarbeitung widersprechen.
-- bestimmte personenbezogene Daten in einem übertragbaren Format erhalten.
-- eine Einwilligung jederzeit widerrufen.
-- bei einer zuständigen Datenschutzbehörde Beschwerde einlegen.
-
-Zur Ausübung dieser Rechte schreib an support@epilogic.com.
-
-## **Rechte der betroffenen Person — Auskunft, Übertragbarkeit und Löschung**
-
-Wir verpflichten uns, gültige Betroffenenanfragen nach geltendem Recht zu beantworten.
-
-Je nach deinem Standort kannst du uns bitten:
-
-- zu bestätigen, ob wir deine personenbezogenen Daten verarbeiten.
-- Auskunft über deine personenbezogenen Daten zu geben.
-- unrichtige oder unvollständige Angaben zu berichtigen.
-- personenbezogene Daten zu löschen, soweit das Recht es verlangt.
-- bestimmte Verarbeitung einzuschränken oder ihr zu widersprechen.
-- geeignete Angaben in einem strukturierten, gängigen, maschinenlesbaren Format bereitzustellen.
-- Kategorien und Zwecke der Verarbeitung zu erklären.
-- Kategorien von Empfängerinnen und Empfängern zu nennen, mit denen Daten geteilt werden.
-
-Vor der Erfüllung einer Anfrage müssen wir ggf. deine Identität prüfen.
-
-Wir können bestimmte Angaben speichern, soweit das nötig ist, um:
-
-- Transaktionen abzuschließen.
-- Betrug zu erkennen und zu verhindern.
-- rechtliche Ansprüche zu schützen.
-- Steuer-, Buchhaltungs-, Aufsichts- oder andere Rechtspflichten zu erfüllen.
-- Streitigkeiten beizulegen.
-- Vereinbarungen durchzusetzen.
-- Sicherheit und Backups zu wahren.
-
-Wir antworten in der gesetzlich vorgesehenen Frist. Soweit die DSGVO gilt, antworten wir in der Regel innerhalb eines Monats; die Frist kann bei komplexen oder zahlreichen Anfragen verlängert werden, soweit das zulässig ist.
-
-Anfragen an support@epilogic.com.
-
-## **Einwohnerinnen und Einwohner Kaliforniens**
-
-Kalifornisches Datenschutzrecht kann uns verpflichten, Kategorien personenbezogener Daten, Zwecke der Nutzung, Quellen und Kategorien Dritter offenzulegen, mit denen Daten geteilt werden.
-
-Das ist in dieser Erklärung beschrieben.
-
-Vorbehaltlich geltenden Rechts können Einwohnerinnen und Einwohner Kaliforniens folgende Rechte haben:
-
-- **Recht auf Wissen und Auskunft:** Du kannst Infos zu Kategorien und konkreten personenbezogenen Daten verlangen, die wir über dich erhoben haben.
-- **Recht auf Berichtigung:** Du kannst die Berichtigung unrichtiger personenbezogener Daten verlangen.
-- **Recht auf Löschung:** Du kannst die Löschung personenbezogener Daten verlangen, vorbehaltlich gesetzlicher Ausnahmen.
-- **Recht auf Datenübertragbarkeit:** Du kannst geeignete Angaben in einem übertragbaren Format verlangen.
-- **Widerspruchsrecht:** Du kannst bestimmten Verkäufen oder der Weitergabe personenbezogener Daten für verhaltensbasierte Werbung über Kontexte hinweg widersprechen.
-- **Recht auf Einschränkung:** Du kannst bestimmte Nutzungen sensibler personenbezogener Daten einschränken.
-- **Recht auf gleiche Leistung:** Wir benachteiligen dich nicht unrechtmäßig, weil du Datenschutzrechte ausübst.
-
-Wir verkaufen personenbezogene Daten nicht gegen Geld.
-
-Je nach eingesetzten Technologien auf der Website können bestimmte Werbe-Offenlegungen nach kalifornischem Recht als „Sharing“ gelten. Soweit anwendbar, kannst du das über Cookie- oder Privatsphäre-Steuerungen verwalten.
-
-Zur Ausübung deiner Rechte schreib an support@epilogic.com. Vor der Erfüllung können wir deine Identität prüfen.
-
-## **Kontakt**
-
-Fragen zu dieser Erklärung oder unseren Datenschutzpraktiken? Schreib uns.
-
-Website: https://developer-not-found-404.epilogic.studio/
-
-E-Mail: support@epilogic.com
+Wenn du Fragen zu dieser Datenschutzerklärung oder zum Umgang mit deinen Daten hast, kontaktiere uns unter: [support@epilogic.com](mailto:support@epilogic.com)

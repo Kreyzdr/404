@@ -103,7 +103,9 @@ export default function SiteFooter({ onOpenContact }: SiteFooterProps) {
           >
             {t("footer.copyright")}
           </a>
-          <address className="not-italic">{t("footer.address")}</address>
+          <address className="not-italic whitespace-pre-line">
+            {t("footer.address")}
+          </address>
         </div>
       </div>
     </footer>

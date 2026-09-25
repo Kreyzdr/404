@@ -142,7 +142,7 @@ export default function PaywallModal({ isOpen, onClose }: PaywallModalProps) {
             className="font-display text-[clamp(32px,6vw,48px)] leading-none text-accent"
             aria-label={t("paywall.priceLabel")}
           >
-            $45
+            $15
           </p>
         </div>
         <p className="mt-4 font-label text-xs uppercase tracking-[0.08em] text-cream">

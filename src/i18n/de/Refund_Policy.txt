@@ -1,16 +1,33 @@
-```txt
-# Rückerstattung (Shift LLC)
+# Rückerstattungsrichtlinie
 
-## 20-Tage-Geld-zurück-Garantie
+Zuletzt aktualisiert: 17. August 2026
 
-Deine Zufriedenheit steht im Vordergrund. Für alle digitalen Produkte auf unserer Website gilt eine 20-Tage-Geld-zurück-Garantie. Wenn dich der digitale Kauf nicht überzeugt, kannst du innerhalb von 20 Tagen ab Kaufdatum die volle Rückerstattung verlangen — ohne Begründung.
+Danke, dass du 404: Developer Not Found nutzt, betrieben unter Kobaltstack LLC. Wir möchten, dass du eine gute Erfahrung mit dem Dienst machst, und diese Richtlinie erklärt, wie Rückerstattungen und Kündigungen funktionieren.
 
-## Rückerstattung anfordern
+Mit einem Kauf über 404: Developer Not Found stimmst du dieser Rückerstattungsrichtlinie sowie unseren AGB und unserer Datenschutzerklärung zu.
 
-1. **Kontakt:** Schreib an support@epilogic.com. Bitte Bestellnummer angeben. Einen Grund kannst du nennen, musst du aber nicht.
-2. **Bearbeitung:** Nach Eingang bearbeiten wir die Anfrage in 7 Tagen. Das Geld geht auf das ursprüngliche Zahlungsmittel zurück. Wann der Betrag auf der Abrechnung erscheint, hängt vom Zahlungsanbieter ab.
+Wenn du mit dem Dienst aus irgendeinem Grund nicht zufrieden bist, kontaktiere uns zuerst — wir helfen gern, das Problem zu lösen.
 
-## Weitere Infos
+## Rückerstattungen
 
-Wir wollen, dass du mit unseren digitalen Produkten gut fährst. Fragen oder Hilfe? Schreib an support@epilogic.com.
-```
+Du kannst innerhalb von 14 Tagen ab dem ursprünglichen Kaufdatum eine Rückerstattung beantragen. Genehmigte Rückerstattungen erfolgen auf die ursprüngliche Zahlungsmethode und werden innerhalb von 14 Tagen nach Genehmigung bearbeitet.
+
+Deine gesetzlichen Verbraucherrechte — einschließlich Widerrufs- oder Kündigungsfristen nach dem Recht deines Wohnsitzlandes — bleiben von dieser Richtlinie unberührt und haben stets Vorrang.
+
+## Kostenlose Pläne und Testphasen
+
+Funktionen oder Pläne mit der Kennzeichnung „Free“ beinhalten keine Geldtransaktion und sind daher nicht erstattungsfähig.
+
+## So beantragst du eine Rückerstattung
+
+Schreib uns für eine Rückerstattung an [support@epilogic.com](mailto:support@epilogic.com) und nenne deine Bestelldaten (E-Mail beim Kauf, ungefähres Datum und Grund der Anfrage). Wir antworten in der Regel innerhalb von 2 Werktagen.
+
+## Ausnahmen
+
+Wir können einen Rückerstattungsantrag ablehnen, wenn es Hinweise auf Betrug, Missbrauch dieser Richtlinie oder anderes manipulatives Verhalten gibt.
+
+Hast du über eine Drittplattform gekauft (zum Beispiel den Chrome Web Store oder einen anderen App-Marktplatz), gilt die Rückerstattungsrichtlinie dieser Plattform anstelle dieser Richtlinie.
+
+## Kontakt
+
+Fragen zu dieser Rückerstattungsrichtlinie kannst du richten an: [support@epilogic.com](mailto:support@epilogic.com)

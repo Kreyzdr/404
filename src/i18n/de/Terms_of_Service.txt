@@ -1,149 +1,65 @@
-```txt
-# Nutzungsbedingungen (Shift LLC)
+# Allgemeine Geschäftsbedingungen
 
-# AGB
+Zuletzt aktualisiert: 17. August 2026
 
-Aktualisiert: 2025-07-24
-
-Diese AGB gelten für die Website https://developer-not-found-404.epilogic.studio/ und zugehörige Dienste von SHIFT LLC (nachfolgend „Unternehmen“). Mit dem Zugriff auf die Website oder ihrer Nutzung akzeptierst du diese Bedingungen.
-
-## Allgemeine Bestimmungen
-
-Wenn du über https://developer-not-found-404.epilogic.studio/ bei SHIFT LLC bestellst, gelten diese Bedingungen. Das Unternehmen haftet nicht für Schäden durch Nutzung oder Nichtnutzung von Website-Materialien. SHIFT LLC kann Preise und Nutzungsregeln jederzeit ändern.
-
-## Leistungsbeschreibung
-
-SHIFT LLC stellt Online-Tools und digitale Dienste über https://developer-not-found-404.epilogic.studio/ bereit. Die Funktionen der einzelnen Tools sind auf der Website beschrieben.
+Diese Allgemeinen Geschäftsbedingungen (die „Vereinbarung“) regeln deinen Zugriff auf und deine Nutzung von 404: Developer Not Found (der „Dienst“), betrieben unter Kobaltstack LLC („Unternehmen“, „wir“, „uns“ oder „unser“). Mit dem Zugriff auf oder der Nutzung des Dienstes erklärst du dich mit dieser Vereinbarung einverstanden. Wenn du nicht einverstanden bist, nutze den Dienst nicht.
 
 ## Lizenz
 
-SHIFT LLC räumt dir eine widerrufliche, nicht ausschließliche, nicht übertragbare und beschränkte Lizenz ein, unsere Produkte gemäß dieser Vereinbarung herunterzuladen, ggf. zu installieren und zu nutzen.
-
-## Geltungsbereich
-
-Diese AGB sind ein Vertrag zwischen dir und SHIFT LLC. Ein Verstoß kann zur Sperre des Zugangs oder zur Löschung des Kontos ohne Vorankündigung führen.
-
-## Wichtige Begriffe
-
-- Cookie: Im Browser gespeicherte Daten zur Identifikation und Analyse.
-- Unternehmen: SHIFT LLC, verantwortlich für deine Daten.
-- Gerät: Mit dem Internet verbundenes Gerät, über das du den Dienst nutzt.
-- Dienst: Angebote von SHIFT LLC über https://developer-not-found-404.epilogic.studio/.
-- Drittanbieter: Werbetreibende, Partner, Content-Anbieter.
-- Website: https://developer-not-found-404.epilogic.studio/
-- Du: Registrierte Nutzerin, registrierter Nutzer oder Besucherin, Besucher des Dienstes.
+Vorbehaltlich der Einhaltung dieser Vereinbarung gewähren wir dir eine widerrufliche, nicht ausschließliche, nicht übertragbare, beschränkte Lizenz, auf 404: Developer Not Found zuzugreifen und es für den vorgesehenen Zweck zu nutzen.
 
 ## Einschränkungen
 
-Die Plattform darf nicht kommerziell verwertet, lizenziert, verkauft oder reverse-engineered werden. Schutzvermerke dürfen nicht entfernt und keine abgeleiteten Werke erstellt werden.
+Du verpflichtest dich, Folgendes zu unterlassen und anderen nicht zu gestatten:
 
-## Deine Vorschläge
+* den Dienst ohne unsere vorherige schriftliche Zustimmung weiterzuverkaufen, unterzulizenzieren, zu vermieten, zu verleasen oder anderweitig kommerziell zu verwerten
+* den Dienst zu verändern, zurückzuentwickeln, zu dekompilieren oder abgeleitete Werke darauf zu erstellen
+* Eigentumshinweise auf dem Dienst zu entfernen oder zu verändern
 
-Feedback wird ausschließliches Eigentum von SHIFT LLC. Das Unternehmen darf Vorschläge ohne Vergütung und Namensnennung nutzen.
+## Konten und Abonnements
 
-## Deine Zustimmung
+Du bist für die Vertraulichkeit deiner Zugangsdaten und für alle Aktivitäten unter deinem Konto verantwortlich. Abonnementpläne, Preise und Abrechnungszeiträume entsprechen der Beschreibung in 404: Developer Not Found zum Zeitpunkt des Kaufs. Wir behalten uns vor, Preise mit angemessener Vorankündigung für die Zukunft zu ändern.
 
-Die Nutzung der Website gilt als Zustimmung zu diesen AGB.
+## Dein Feedback
 
-## Links zu anderen Websites
-
-Diese AGB gelten nur für Dienste von SHIFT LLC über https://developer-not-found-404.epilogic.studio/. Das Unternehmen ist nicht verantwortlich für Inhalte, Richtigkeit oder Richtlinien externer Websites.
-
-## Cookies
-
-SHIFT LLC nutzt Cookies, um besuchte Bereiche zu erkennen und Funktionen zu verbessern. Das Deaktivieren von Cookies kann den Zugang einschränken. In Cookies werden keine personenbezogenen Daten gespeichert.
-
-## Änderungen der AGB
-
-SHIFT LLC kann Dienste nach eigenem Ermessen ohne Vorankündigung einstellen. Aktualisierte Bedingungen werden auf https://developer-not-found-404.epilogic.studio/ mit Änderungsdatum veröffentlicht.
-
-## Änderungen der Website
-
-SHIFT LLC darf die Website oder einzelne Dienste ohne Hinweis und ohne Haftung ändern, aussetzen oder einstellen.
-
-## Updates der Website
-
-Updates können Funktionen ändern und werden Teil des Dienstes. Es besteht keine Pflicht, Updates bereitzustellen oder bestimmte Funktionen zu erhalten.
+Feedback, Vorschläge oder Ideen zum Dienst dürfen wir ohne Einschränkung und ohne Vergütung an dich verwenden.
 
 ## Dienste Dritter
 
-SHIFT LLC ist nicht verantwortlich für Richtigkeit, Rechtmäßigkeit oder Qualität fremder Inhalte. Die Nutzung solcher Dienste erfolgt auf eigenes Risiko.
-
-## Laufzeit und Beendigung
-
-Die Vereinbarung gilt, bis eine Partei sie beendet. SHIFT LLC kann den Zugang ohne Grund und ohne Hinweis sperren oder beenden. Bei Verstoß endet der Zugang sofort.
-
-## Hinweis bei Urheberrechtsverletzung
-
-Rechteinhaber senden eine schriftliche Mitteilung mit Unterschrift, Angabe des Materials, Kontaktdaten und einer Erklärung nach bestem Wissen.
-
-Hinweise auf Urheberrechtsverletzungen an support@epilogic.com.
-
-## Freistellung
-
-Nutzer stellen SHIFT LLC und verbundene Unternehmen von Ansprüchen frei, die aus der Nutzung der Website, Vertragsverstößen oder der Verletzung von Rechten Dritter entstehen.
-
-## Keine Gewährleistung
-
-Die Website wird „WIE BESEHEN“ und „WIE VERFÜGBAR“ ohne Gewährleistung bereitgestellt. Das Unternehmen garantiert keinen ununterbrochenen Betrieb, keine Fehlerfreiheit und keine Kompatibilität mit anderen Systemen.
-
-## Haftungsbeschränkung
-
-Die Haftung ist auf den tatsächlich für Website-Dienste gezahlten Betrag begrenzt. SHIFT LLC haftet nicht für Folgeschäden, indirekte oder besondere Schäden.
-
-## Salvatorische Klausel
-
-Ist eine Klausel unwirksam, wird sie so angepasst, dass ihr Zweck erhalten bleibt. Die übrigen Klauseln bleiben in Kraft.
-
-## Verzicht
-
-Die Nichtausübung eines Rechts bedeutet keinen Verzicht auf spätere Rechte oder Verstöße.
-
-## Vertragsänderungen
-
-SHIFT LLC darf diese AGB jederzeit ändern. Wesentliche Änderungen gelten nach 30 Tagen Vorlauf.
-
-## Gesamte Vereinbarung
-
-Diese AGB ersetzen alle früheren Absprachen und bilden das vollständige Verständnis der Parteien.
+Der Dienst kann auf Dienste Dritter verlinken oder sich mit ihnen verbinden. Wir sind nicht verantwortlich für Inhalt, Genauigkeit oder Praktiken von Diensten Dritter. Du nutzt sie auf eigenes Risiko und nach deren eigenen Bedingungen.
 
 ## Geistiges Eigentum
 
-Die Website und alle Inhalte, Funktionen und Merkmale gehören SHIFT LLC und sind nach armenischem und internationalem Urheber-, Marken-, Patent- und Geheimnisschutzrecht geschützt.
+Der Dienst sowie seine Inhalte, Funktionen und Funktionalität gehören Kobaltstack LLC oder ihren Lizenzgebern und sind durch geltendes Recht des geistigen Eigentums geschützt. Du darfst keinen Teil des Dienstes ohne vorherige schriftliche Genehmigung kopieren, ändern oder verbreiten, außer soweit diese Vereinbarung es ausdrücklich erlaubt.
 
-## Schiedsvereinbarung
+## Laufzeit und Kündigung
 
-Streitigkeiten werden durch verbindliches Schiedsverfahren nach den Regeln der American Arbitration Association beigelegt, ausgenommen Unterlassungsansprüche zum geistigen Eigentum.
+Diese Vereinbarung gilt, bis du oder wir sie beenden. Wir können deinen Zugriff auf den Dienst jederzeit mit oder ohne Ankündigung aussetzen oder beenden, wenn du diese Vereinbarung verletzt. Mit der Kündigung endet dein Recht zur Nutzung des Dienstes sofort.
 
-## Streitmitteilung
+## Gewährleistungsausschluss
 
-Streitigkeiten sind schriftlich an support@epilogic.com zu melden. Die Parteien haben 60 Tage Zeit für eine außergerichtliche Klärung vor dem Schiedsverfahren.
+Der Dienst wird „wie besehen“ und „wie verfügbar“ bereitgestellt, ohne Garantien jeglicher Art, weder ausdrücklich noch stillschweigend, einschließlich stillschweigender Garantien der Marktgängigkeit, der Eignung für einen bestimmten Zweck und der Nichtverletzung von Rechten. Wir garantieren nicht, dass der Dienst ununterbrochen, fehlerfrei oder vollständig sicher ist.
 
-## Verbindliches Schiedsverfahren
+## Haftungsbeschränkung
 
-Auf ein Juryverfahren wird verzichtet. Die unterliegende Partei trägt die Kosten der obsiegenden Partei.
+Im gesetzlich zulässigen Höchstmaß übersteigt die Gesamthaftung von Kobaltstack LLC aus oder im Zusammenhang mit dieser Vereinbarung oder dem Dienst nicht den Betrag, den du in den vorangegangenen 12 Monaten für den Dienst gezahlt hast. Wir haften nicht für indirekte, zufällige, besondere, Folge- oder Strafschäden.
 
-## Einsendungen und Datenschutz
+## Freistellung
 
-Nutzereinsendungen werden automatisch nicht-vertrauliches Eigentum des Unternehmens und dürfen dauerhaft ohne Vergütung genutzt werden.
+Du verpflichtest dich, Kobaltstack LLC und ihre verbundenen Unternehmen von Ansprüchen, Schäden oder Kosten (einschließlich angemessener Anwaltskosten) freizustellen, die aus deiner Nutzung des Dienstes oder einem Verstoß gegen diese Vereinbarung entstehen.
 
-## Aktionen
+## Anwendbares Recht und Streitigkeiten
 
-Gewinnspiele können Teilnahmebedingungen und eigene Regeln haben. Die geltenden Regeln sind vor der Teilnahme zu prüfen.
+Diese Vereinbarung unterliegt dem für Kobaltstack LLC geltenden Recht, ohne Berücksichtigung von Kollisionsnormen. Jede Streitigkeit aus dieser Vereinbarung wird zunächst durch informelle Verhandlung geklärt. Kontaktiere uns dazu unter [support@epilogic.com](mailto:support@epilogic.com). Ist sie innerhalb von 60 Tagen nicht beigelegt, kann jede Partei sie durch ein bindendes Schiedsverfahren oder ein anderes einvernehmlich vereinbartes Verfahren verfolgen.
 
-## Tippfehler
+## Änderungen dieser Bedingungen
 
-Bei falschen Preisen darf SHIFT LLC Bestellungen ablehnen oder stornieren. Bereits belastete Beträge werden sofort gutgeschrieben.
+Wir können diese Vereinbarung von Zeit zu Zeit aktualisieren. Wesentliche Änderungen teilen wir mit angemessener Vorankündigung mit. Die weitere Nutzung des Dienstes nach Inkrafttreten der Änderungen gilt als Annahme der aktualisierten Bedingungen.
 
-## Sonstiges
+## Gesamte Vereinbarung
 
-Es gilt das Recht Armeniens. Gerichte können bei Verstößen Unterlassungsansprüche durchsetzen. Das Unternehmen handelt von Büros in Armenien aus.
-
-## Haftungsausschluss
-
-SHIFT LLC ist nicht verantwortlich für Inhalte, Code oder Ungenauigkeiten. Dienste werden „wie besehen“ ohne Gewähr bereitgestellt. SHIFT LLC übt keine redaktionelle Kontrolle über Inhalte Dritter aus.
+Diese Vereinbarung bildet zusammen mit unserer Datenschutzerklärung und unserer Rückerstattungsrichtlinie die gesamte Vereinbarung zwischen dir und Kobaltstack LLC bezüglich 404: Developer Not Found und ersetzt alle früheren Vereinbarungen zu diesem Gegenstand.
 
 ## Kontakt
 
-Fragen an support@epilogic.com.
-```
+Fragen zu diesen Allgemeinen Geschäftsbedingungen kannst du richten an: [support@epilogic.com](mailto:support@epilogic.com)

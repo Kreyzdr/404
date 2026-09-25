@@ -3,7 +3,7 @@ import FrameScaler from "@/components/FrameScaler"
 import Artwork from "@/components/Artwork"
 import useArtworkAlts from "@/hooks/useArtworkAlts"
 import usePricingReveal, { revealClass } from "@/hooks/usePricingReveal"
-import { imgHeadline, imgPrice } from "@/imports/10V2State2-1/svg-rcuro"
+import { imgHeadline } from "@/imports/10V2State2-1/svg-rcuro"
 import artCta from "@/assets/artwork/mobile-pricing-cta.svg"
 import artHeadline from "@/assets/artwork/mobile-pricing-headline.svg"
 import artPrice from "@/assets/artwork/mobile-price.svg"
@@ -54,11 +54,8 @@ export default function Section10({ overlay }: { overlay?: ReactNode }) {
             <Artwork src={artHeadline} alt={alts.pricing} className={FILL} />
           </div>
 
-          {/* price (masked vector) */}
-          <div
-            className="absolute inset-[16.88%_30.85%_64.23%_10.51%] mask-alpha mask-intersect mask-no-clip mask-no-repeat mask-size-[202.271px_159.742px]"
-            style={{ maskImage: `url("${imgPrice}")` }}
-          >
+          {/* price */}
+          <div className="absolute inset-[16.82%_44.36%_64.22%_10.77%]">
             <Artwork src={artPrice} alt={alts.price} className={FILL} />
           </div>
 

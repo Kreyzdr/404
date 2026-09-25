@@ -7,7 +7,7 @@ export const ru: DeepString<En> = {
     label: "Язык",
   },
   meta: {
-    landingTitle: "404: Developer Not Found — детектив в браузере",
+    landingTitle: "404: Developer Not Found — AI-детектив",
     landingDescription:
       "Создатель исчез. Допрашивай подозреваемых, взламывай пароли и ищи скрытые документы. Детектив в браузере на 2–3 часа. Один или с друзьями.",
     termsTitle: "Условия использования — 404: Developer Not Found",
@@ -21,7 +21,7 @@ export const ru: DeepString<En> = {
     ctaSearch: "Начать поиск",
     ctaReady: "Я готов!",
     ctaBuy: "Начать расследование",
-    price: "$45.",
+    price: "$15.",
     heroKicker: "404:",
     heroTitle: "Разработчик не найден",
     heroTagline: "Детективная игра нового поколения",
@@ -117,7 +117,7 @@ export const ru: DeepString<En> = {
     cookieSettings: "Настройки cookies",
     copyright: "©2026 EPILOGIC STUDIO",
     address:
-      "SHIFT LLC. 5, street 17, Argel, Nor Hachn, Kotayk region, 2404, RA",
+      "Kobaltstack LLC\n447 Broadway, 2nd Floor, 3436, New York, NY 10013, New York, US",
     main: [
       { label: "Сюжет", href: "/#story" },
       { label: "Персонажи", href: "/#characters" },
@@ -168,7 +168,7 @@ export const ru: DeepString<En> = {
     kicker: "Завершить покупку",
     title: "Лицензия детектива",
     points: ["2–3 часа", "Один или с друзьями", "Доступ сразу"],
-    priceLabel: "Цена: 45 долларов США",
+    priceLabel: "Цена: 15 долларов США",
     terms: "Разово · Без подписки · Без скачивания",
     delivery: "Ссылка на игру придёт на почту после оплаты.",
     email: "Email",

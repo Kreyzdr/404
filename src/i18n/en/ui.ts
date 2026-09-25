@@ -3,7 +3,7 @@ export const en = {
     label: "Language",
   },
   meta: {
-    landingTitle: "404: Developer Not Found — Browser Detective Game",
+    landingTitle: "404: Developer Not Found — AI Detective Game",
     landingDescription:
       "A developer has vanished. Interrogate suspects, crack passwords and uncover hidden documents in a 2–3 hour browser detective game. Play solo or with friends.",
     termsTitle: "Terms of Service — 404: Developer Not Found",
@@ -19,7 +19,7 @@ export const en = {
     ctaSearch: "Start the search",
     ctaReady: "I'm ready!",
     ctaBuy: "Start the investigation",
-    price: "$45.",
+    price: "$15.",
     heroKicker: "404:",
     heroTitle: "Developer not found",
     heroTagline: "A next-generation AI detective game",
@@ -121,7 +121,7 @@ export const en = {
     cookieSettings: "Cookie settings",
     copyright: "©2026 EPILOGIC STUDIO",
     address:
-      "SHIFT LLC. 5, street 17, Argel, Nor Hachn, Kotayk region, 2404, RA",
+      "Kobaltstack LLC\n447 Broadway, 2nd Floor, 3436, New York, NY 10013, New York, US",
     main: [
       { label: "Story", href: "/#story" },
       { label: "Characters", href: "/#characters" },
@@ -172,7 +172,7 @@ export const en = {
     kicker: "Complete your purchase",
     title: "Get Detective License",
     points: ["2–3 hours", "Solo or team", "Instant access"],
-    priceLabel: "Price: 45 US dollars",
+    priceLabel: "Price: 15 US dollars",
     terms: "One-time payment · No subscription · No downloads required",
     delivery:
       "Your game link will be sent to your email after successful payment.",

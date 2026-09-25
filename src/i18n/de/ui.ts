@@ -7,7 +7,7 @@ export const de: DeepString<En> = {
     label: "Sprache",
   },
   meta: {
-    landingTitle: "404: Developer Not Found — Detektivspiel im Browser",
+    landingTitle: "404: Developer Not Found — KI-Detektivspiel",
     landingDescription:
       "Ein Creator ist verschwunden. Befrage Verdächtige, knacke Passwörter und finde versteckte Akten. Detektivspiel im Browser, 2–3 Stunden. Solo oder mit Freunden.",
     termsTitle: "AGB — 404: Developer Not Found",
@@ -21,7 +21,7 @@ export const de: DeepString<En> = {
     ctaSearch: "Suche starten",
     ctaReady: "Ich bin bereit!",
     ctaBuy: "Ermittlung starten",
-    price: "$45.",
+    price: "$15.",
     heroKicker: "404:",
     heroTitle: "Entwickler nicht gefunden",
     heroTagline: "Ein KI-Detektivspiel der nächsten Generation",
@@ -120,7 +120,7 @@ export const de: DeepString<En> = {
     cookieSettings: "Cookie-Einstellungen",
     copyright: "©2026 EPILOGIC STUDIO",
     address:
-      "SHIFT LLC. 5, street 17, Argel, Nor Hachn, Kotayk region, 2404, RA",
+      "Kobaltstack LLC\n447 Broadway, 2nd Floor, 3436, New York, NY 10013, New York, US",
     main: [
       { label: "Geschichte", href: "/#story" },
       { label: "Charaktere", href: "/#characters" },
@@ -171,7 +171,7 @@ export const de: DeepString<En> = {
     kicker: "Kauf abschließen",
     title: "Detektivlizenz",
     points: ["2–3 Stunden", "Solo oder Team", "Sofortzugang"],
-    priceLabel: "Preis: 45 US-Dollar",
+    priceLabel: "Preis: 15 US-Dollar",
     terms: "Einmalig · Kein Abo · Kein Download",
     delivery: "Den Spiellink erhältst du nach der Zahlung per E-Mail.",
     email: "E-Mail",

@@ -37,13 +37,15 @@ function createHeadingId(value: string) {
 
 function renderInlineText(text: string): ReactNode[] {
   const parts = text.split(
-    /(\[[^\]]+\]\(https?:\/\/[^)\s]+\)|\*\*[^*]+\*\*|https?:\/\/[^\s]+|[\w.+-]+@[\w.-]+\.[A-Za-z]{2,})/g,
+    /(\[[^\]]+\]\((?:https?:\/\/|mailto:)[^)\s]+\)|\*\*[^*]+\*\*|https?:\/\/[^\s]+|[\w.+-]+@[\w.-]+\.[A-Za-z]{2,})/g,
   )
 
   return parts.map((part, index) => {
     if (!part) return null
 
-    const markdownLink = part.match(/^\[([^\]]+)\]\((https?:\/\/[^)\s]+)\)$/)
+    const markdownLink = part.match(
+      /^\[([^\]]+)\]\(((?:https?:\/\/|mailto:)[^)\s]+)\)$/,
+    )
     if (markdownLink) {
       return (
         <a
@@ -153,7 +155,9 @@ function renderDocument(content: string) {
     }
 
     if (
-      /^(Updated:|Aktualisiert:|Actualizado:|Обновлено:|更新：)/i.test(line)
+      /^(Last updated|Updated|Zuletzt aktualisiert|Aktualisiert|Última actualización|Actualizado|Последнее обновление|Обновлено|最后更新|更新)[:：]/i.test(
+        line,
+      )
     ) {
       blocks.push(
         <p
@@ -167,12 +171,12 @@ function renderDocument(content: string) {
       continue
     }
 
-    if (/^-\s+/.test(line)) {
+    if (/^[-*]\s+/.test(line)) {
       const items: ReactNode[] = []
       const listKey = index
 
-      while (index < lines.length && /^-\s+/.test(lines[index].trim())) {
-        const item = lines[index].trim().replace(/^-\s+/, "")
+      while (index < lines.length && /^[-*]\s+/.test(lines[index].trim())) {
+        const item = lines[index].trim().replace(/^[-*]\s+/, "")
         items.push(
           <li key={index} className="pl-1">
             {renderInlineText(item)}
@@ -227,7 +231,7 @@ function renderDocument(content: string) {
       if (
         !nextLine ||
         /^(#{1,3})\s+/.test(nextLine) ||
-        /^-\s+/.test(nextLine) ||
+        /^[-*]\s+/.test(nextLine) ||
         /^\d+\.\s+/.test(nextLine)
       ) {
         break
@@ -299,7 +303,7 @@ export default function DocumentPage({
 
         <footer className="mt-8 flex flex-col gap-3 font-body text-xs text-muted sm:flex-row sm:items-center sm:justify-between">
           <span>{t("docs.copyright")}</span>
-          <address className="max-w-md font-normal not-italic sm:text-center">
+          <address className="max-w-md font-normal not-italic whitespace-pre-line sm:text-center">
             {t("footer.address")}
           </address>
           <a

@@ -10,7 +10,6 @@ import usePricingReveal, { revealClass } from "@/hooks/usePricingReveal"
 import {
   imgTypography,
   imgHeadline,
-  imgPrice,
 } from "@/imports/404DesktopRefined1441/svg-q2bvx"
 import imgDominic from "@/assets/scenes/dominic.webp"
 import imgCorporation from "@/assets/scenes/corporation.webp"
@@ -423,13 +422,8 @@ export default function DesktopLanding({
                 />
               </div>
             </div>
-            <div className="relative h-[236.924px] w-[300px] shrink-0 overflow-clip">
-              <div
-                className="absolute inset-[0_-13.05%_0.2%_0] mask-alpha mask-intersect mask-no-clip mask-no-repeat mask-size-[299.994px_236.918px]"
-                style={{ maskImage: `url("${imgPrice}")` }}
-              >
-                <Artwork src={artPrice} alt={alts.price} className={FILL} />
-              </div>
+            <div className="relative h-[237px] w-[259px] shrink-0 overflow-clip">
+              <Artwork src={artPrice} alt={alts.price} className={FILL} />
             </div>
             <CtaButton onClick={onOpenPaywall} label={alts.ctaBuy} width={360}>
               <Artwork

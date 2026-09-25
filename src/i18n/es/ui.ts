@@ -7,7 +7,7 @@ export const es: DeepString<En> = {
     label: "Idioma",
   },
   meta: {
-    landingTitle: "404: Developer Not Found — detective en el navegador",
+    landingTitle: "404: Developer Not Found — detective de IA",
     landingDescription:
       "Un creator desapareció. Interroga sospechosos, rompe contraseñas y halla archivos ocultos. Detective en el navegador, 2–3 horas. Solo o con amigos.",
     termsTitle: "Términos — 404: Developer Not Found",
@@ -21,7 +21,7 @@ export const es: DeepString<En> = {
     ctaSearch: "Empezar la búsqueda",
     ctaReady: "¡Estoy listo!",
     ctaBuy: "Empezar la investigación",
-    price: "$45.",
+    price: "$15.",
     heroKicker: "404:",
     heroTitle: "Desarrollador no encontrado",
     heroTagline: "Un juego de detectives con IA de nueva generación",
@@ -118,7 +118,7 @@ export const es: DeepString<En> = {
     cookieSettings: "Configuración de cookies",
     copyright: "©2026 EPILOGIC STUDIO",
     address:
-      "SHIFT LLC. 5, street 17, Argel, Nor Hachn, Kotayk region, 2404, RA",
+      "Kobaltstack LLC\n447 Broadway, 2nd Floor, 3436, New York, NY 10013, New York, US",
     main: [
       { label: "Historia", href: "/#story" },
       { label: "Personajes", href: "/#characters" },
@@ -169,7 +169,7 @@ export const es: DeepString<En> = {
     kicker: "Completar la compra",
     title: "Licencia de detective",
     points: ["2–3 horas", "Solo o en equipo", "Acceso al instante"],
-    priceLabel: "Precio: 45 USD",
+    priceLabel: "Precio: 15 USD",
     terms: "Pago único · Sin suscripción · Sin descargas",
     delivery: "El enlace del juego llega a tu email tras el pago.",
     email: "Email",

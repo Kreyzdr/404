@@ -1,149 +1,65 @@
-```txt
-# Términos de servicio (Shift LLC)
+# Términos de servicio
 
-# Términos y condiciones
+Última actualización: 17 de agosto de 2026
 
-Actualizado: 2025-07-24
-
-Estos Términos regulan el uso del sitio https://developer-not-found-404.epilogic.studio/ y los servicios relacionados de SHIFT LLC (en adelante, la «Empresa»). Al acceder o usar el Sitio, aceptas estos Términos.
-
-## Términos generales
-
-Al acceder y pedir en SHIFT LLC a través de https://developer-not-found-404.epilogic.studio/, aceptas estas condiciones. La Empresa no responde por daños derivados de usar o no poder usar el material del sitio. SHIFT LLC puede cambiar precios y reglas de uso en cualquier momento.
-
-## Descripción del servicio
-
-SHIFT LLC ofrece tools y utilidades digitales en https://developer-not-found-404.epilogic.studio/. Las funciones de cada tool están descritas en el Sitio.
+Estos Términos de servicio (el «Acuerdo») regulan tu acceso y uso de 404: Developer Not Found (el «Servicio»), operado bajo Kobaltstack LLC («Empresa», «nosotros», «nos» o «nuestro»). Al acceder al Servicio o usarlo, aceptas quedar vinculado por este Acuerdo. Si no estás de acuerdo, no uses el Servicio.
 
 ## Licencia
 
-SHIFT LLC te otorga una licencia revocable, no exclusiva, intransferible y limitada para descargar, instalar (si aplica) y usar nuestros productos según este acuerdo.
-
-## Alcance del acuerdo
-
-Estos Términos son un contrato entre tú y SHIFT LLC. Un incumplimiento puede llevar a cancelar la cuenta o bloquear el acceso sin aviso.
-
-## Definiciones clave
-
-- Cookie: datos en el navegador para identificación y analítica.
-- Empresa: SHIFT LLC, responsable de tu información.
-- Dispositivo: equipo con internet con el que accedes al Servicio.
-- Servicio: ofertas de SHIFT LLC en https://developer-not-found-404.epilogic.studio/.
-- Servicio de terceros: anunciantes, partners, proveedores de contenido.
-- Sitio: https://developer-not-found-404.epilogic.studio/
-- Tú: persona usuaria registrada o visitante del Servicio.
+Sujeto al cumplimiento de este Acuerdo, te concedemos una licencia revocable, no exclusiva, intransferible y limitada para acceder a 404: Developer Not Found y usarlo para su finalidad prevista.
 
 ## Restricciones
 
-No puedes explotar comercialmente, licenciar, vender ni hacer ingeniería inversa de la plataforma. No quites avisos de propiedad ni crees obras derivadas.
+Te comprometes a no hacer lo siguiente y a no permitírselo a otros:
 
-## Tus sugerencias
+* Revender, sublicenciar, alquilar, arrendar o explotar comercialmente el Servicio de otro modo sin nuestro consentimiento previo por escrito
+* Modificar, realizar ingeniería inversa, descompilar o crear obras derivadas basadas en el Servicio
+* Eliminar o alterar avisos de propiedad en el Servicio
 
-El feedback pasa a ser propiedad exclusiva de SHIFT LLC. La Empresa puede usarlo sin compensación ni atribución.
+## Cuentas y suscripciones
 
-## Tu consentimiento
+Eres responsable de mantener la confidencialidad de las credenciales de tu cuenta y de toda la actividad realizada con ella. Los planes de suscripción, los precios y los ciclos de facturación son los descritos en 404: Developer Not Found en el momento de la compra. Nos reservamos el derecho de cambiar los precios a futuro con un aviso razonable.
 
-Usar el Sitio implica aceptar estos Términos.
+## Tus comentarios
 
-## Enlaces a otros sitios
-
-Estos Términos aplican solo a los servicios de SHIFT LLC en https://developer-not-found-404.epilogic.studio/. La Empresa no responde por contenido, exactitud ni políticas de sitios externos.
-
-## Cookies
-
-SHIFT LLC usa cookies para ver qué zonas visitas y mejorar el sitio. Desactivarlas puede limitar el acceso. Las cookies no guardan datos personales.
-
-## Cambios a los Términos
-
-SHIFT LLC puede dejar de ofrecer servicios a su criterio, sin aviso previo. Los términos actualizados se publican en https://developer-not-found-404.epilogic.studio/ con la fecha de cambio.
-
-## Modificaciones del Sitio
-
-SHIFT LLC puede modificar, suspender o discontinuar el Sitio o cualquier servicio sin aviso y sin responsabilidad hacia ti.
-
-## Actualizaciones del Sitio
-
-Las actualizaciones pueden cambiar funciones y pasan a formar parte del Servicio. La Empresa no está obligada a dar updates ni a mantener funciones concretas.
+Cualquier comentario, sugerencia o idea que nos des sobre el Servicio podemos usarlo sin restricción ni compensación para ti.
 
 ## Servicios de terceros
 
-SHIFT LLC no responde por la exactitud, legalidad ni calidad del contenido de terceros. Accedes a esos servicios bajo tu propio riesgo.
-
-## Vigencia y terminación
-
-El acuerdo sigue hasta que lo termine cualquiera de las partes. SHIFT LLC puede suspender o terminar el acceso sin motivo ni aviso. El incumplimiento implica terminación inmediata.
-
-## Aviso de infracción de copyright
-
-Las personas titulares deben enviar un aviso escrito con firma, identificación del material, contacto y una declaración de buena fe.
-
-Los avisos de infracción pueden enviarse a support@epilogic.com.
-
-## Indemnización
-
-Aceptas indemnizar a SHIFT LLC y a sus afiliadas por reclamaciones derivadas del uso del Sitio, del incumplimiento del acuerdo o de la infracción de derechos de terceros.
-
-## Sin garantías
-
-El Sitio se ofrece «TAL CUAL» y «SEGÚN DISPONIBILIDAD», sin garantías. La Empresa no garantiza operación ininterrumpida, ausencia de errores ni compatibilidad con otros sistemas.
-
-## Límite de responsabilidad
-
-La responsabilidad se limita a lo pagado por los servicios del Sitio. SHIFT LLC no responde por daños consecuentes, indirectos o especiales.
-
-## Divisibilidad
-
-Si una cláusula no es aplicable, se ajustará para cumplir su objetivo y el resto seguirá vigente.
-
-## Renuncia
-
-No ejercer un derecho no implica renunciar a derechos o incumplimientos posteriores.
-
-## Cambios al acuerdo
-
-SHIFT LLC puede modificar estos Términos en cualquier momento. Los cambios materiales rigen a los 30 días de aviso.
-
-## Acuerdo completo
-
-Estos Términos sustituyen cualquier acuerdo previo y constituyen el entendimiento completo entre las partes.
+El Servicio puede enlazar o integrarse con servicios de terceros. No somos responsables del contenido, la exactitud o las prácticas de ningún servicio de terceros, y los usas bajo tu propio riesgo y sujetos a sus propios términos.
 
 ## Propiedad intelectual
 
-El Sitio y todo su contenido, funciones y características pertenecen a SHIFT LLC y están protegidos por las leyes de Armenia e internacionales de copyright, marcas, patentes, secretos comerciales y demás PI.
+El Servicio y su contenido, funciones y funcionalidad pertenecen a Kobaltstack LLC o a sus licenciantes y están protegidos por las leyes de propiedad intelectual aplicables. No puedes copiar, modificar ni distribuir ninguna parte del Servicio sin permiso previo por escrito, salvo lo que este Acuerdo permita expresamente.
 
-## Acuerdo de arbitraje
+## Vigencia y terminación
 
-Las disputas se resuelven por arbitraje vinculante según las reglas de la American Arbitration Association, salvo pretensiones de injunction por propiedad intelectual.
+Este Acuerdo permanece en vigor hasta que tú o nosotros lo terminemos. Podemos suspender o terminar tu acceso al Servicio en cualquier momento, con o sin aviso, si incumples este Acuerdo. Tras la terminación, tu derecho a usar el Servicio cesa de inmediato.
 
-## Aviso de disputa
+## Exclusión de garantías
 
-Las disputas requieren aviso escrito a support@epilogic.com. Las partes tienen 60 días para negociar de forma informal antes del arbitraje.
+El Servicio se proporciona «tal cual» y «según disponibilidad», sin garantías de ningún tipo, expresas o implícitas, incluidas las garantías implícitas de comerciabilidad, idoneidad para un fin particular y no infracción. No garantizamos que el Servicio sea ininterrumpido, libre de errores o totalmente seguro.
 
-## Arbitraje vinculante
+## Limitación de responsabilidad
 
-Renuncias al juicio con jurado. Los costos legales de la parte vencedora los asume la parte vencida.
+En la máxima medida permitida por la ley, la responsabilidad total de Kobaltstack LLC derivada de este Acuerdo o del Servicio, o relacionada con ellos, no superará el importe que pagaste por el Servicio en los 12 meses anteriores. No seremos responsables de daños indirectos, incidentales, especiales, consecuentes o punitivos.
 
-## Envíos y privacidad
+## Indemnización
 
-Los envíos de usuarios pasan a ser propiedad no confidencial de la Empresa, usable de forma perpetua y sin compensación.
+Aceptas indemnizar y mantener indemne a Kobaltstack LLC y a sus afiliadas frente a reclamaciones, daños o gastos (incluidos honorarios legales razonables) derivados de tu uso del Servicio o del incumplimiento de este Acuerdo.
 
-## Promociones
+## Ley aplicable y disputas
 
-Los concursos pueden exigir envíos y tener reglas propias. Revisa las reglas para ver si puedes participar.
+Este Acuerdo se rige por las leyes aplicables a Kobaltstack LLC, sin tener en cuenta los principios de conflicto de leyes. Cualquier disputa derivada de este Acuerdo se abordará primero mediante negociación informal, contactándonos en [support@epilogic.com](mailto:support@epilogic.com). Si no se resuelve en 60 días, cualquiera de las partes puede llevar la disputa a un arbitraje vinculante u otro proceso acordado de mutuo acuerdo.
 
-## Errores tipográficos
+## Cambios de estos términos
 
-Un precio incorrecto permite a SHIFT LLC rechazar o cancelar pedidos. Si ya hubo un cargo, el crédito se emite de inmediato.
+Podemos actualizar este Acuerdo de vez en cuando. Los cambios materiales se comunicarán con un aviso previo razonable. Seguir usando el Servicio después de que los cambios entren en vigor constituye tu aceptación de los términos actualizados.
 
-## Varios
+## Acuerdo completo
 
-Estos Términos se rigen por el derecho de Armenia. Los tribunales pueden aplicar medidas cautelares ante incumplimientos. La Empresa opera desde oficinas en Armenia.
-
-## Descargo
-
-SHIFT LLC no responde por contenido, código ni inexactitudes. Los servicios se ofrecen «tal cual», sin garantías. SHIFT LLC no ejerce control editorial sobre contenido de terceros.
+Este Acuerdo, junto con nuestra Política de privacidad y nuestra Política de reembolsos, constituye el acuerdo completo entre tú y Kobaltstack LLC respecto de 404: Developer Not Found y sustituye cualquier acuerdo anterior sobre este asunto.
 
 ## Contacto
 
-Preguntas a support@epilogic.com.
-```
+Las preguntas sobre estos Términos de servicio pueden dirigirse a: [support@epilogic.com](mailto:support@epilogic.com)

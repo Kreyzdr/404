@@ -1,149 +1,65 @@
-```txt
-# Terms of Service (Shift LLC)
+# Terms of Service
 
-# Terms & Conditions
+Last updated: August 17, 2026
 
-Updated: 2025-07-24
-
-These Terms and Conditions govern the use of the website https://developer-not-found-404.epilogic.studio/ and related services operated by SHIFT LLC (hereinafter referred to as the "Company"). By accessing or using the Website, you agree to be bound by these Terms.
-
-## General Terms
-
-By accessing and ordering from SHIFT LLC through https://developer-not-found-404.epilogic.studio/, you agree to these terms. The Company disclaims liability for damages from using or inability to use site materials. SHIFT LLC reserves the right to modify pricing and usage policies at any time.
-
-## Service Description
-
-SHIFT LLC provides online tools and digital utilities made available through the website https://developer-not-found-404.epilogic.studio/. The specific features and functionalities of each tool are described on the Website.
+These Terms of Service (the "Agreement") govern your access to and use of 404: Developer Not Found (the "Service"), operated under Kobaltstack LLC ("Company," "we," "us," or "our"). By accessing or using the Service, you agree to be bound by this Agreement. If you do not agree, do not use the Service.
 
 ## License
 
-SHIFT LLC grants you a revocable, non-exclusive, non-transferable, limited license to download, install (if applicable), and use our products strictly in accordance with the terms of this agreement.
-
-## Agreement Scope
-
-These Terms constitute a contract between you and SHIFT LLC. Violation may result in account cancellation or access blocking without notice.
-
-## Key Definitions
-
-- Cookie: Browser-stored data for identification and analytics.
-- Company: SHIFT LLC, responsible for your information.
-- Device: Internet-connected equipment accessing the Service.
-- Service: SHIFT LLC's offerings provided via https://developer-not-found-404.epilogic.studio/.
-- Third-party service: Advertisers, partners, content providers.
-- Website: https://developer-not-found-404.epilogic.studio/
-- You: Registered or visiting user of the Service.
+Subject to your compliance with this Agreement, we grant you a revocable, non-exclusive, non-transferable, limited license to access and use 404: Developer Not Found for its intended purpose.
 
 ## Restrictions
 
-Users cannot commercially exploit, license, sell, or reverse engineer the platform. You must not remove proprietary notices or create derivative works.
+You agree not to, and will not permit others to:
 
-## Your Suggestions
+* Resell, sublicense, rent, lease, or otherwise commercially exploit the Service without our prior written consent
+* Modify, reverse engineer, decompile, or create derivative works based on the Service
+* Remove or alter any proprietary notices on the Service
 
-User feedback becomes SHIFT LLC's exclusive property. The Company may use suggestions freely without compensation or attribution.
+## Accounts and subscriptions
 
-## Your Consent
+You are responsible for maintaining the confidentiality of your account credentials and for all activity under your account. Subscription plans, pricing, and billing cycles are as described within 404: Developer Not Found at the time of purchase. We reserve the right to change pricing on a going-forward basis with reasonable notice.
 
-Using the Website constitutes agreement to these Terms and Conditions.
+## Your feedback
 
-## Links to Other Websites
+Any feedback, suggestions, or ideas you provide about the Service may be used by us without restriction or compensation to you.
 
-These Terms apply only to services provided by SHIFT LLC through https://developer-not-found-404.epilogic.studio/. The Company is not responsible for external website content, accuracy, or policies.
+## Third-party services
 
-## Cookies
+The Service may link to or integrate with third-party services. We are not responsible for the content, accuracy, or practices of any third-party services, and your use of them is at your own risk and subject to their own terms.
 
-SHIFT LLC uses cookies to identify visited areas and enhance functionality. Disabling cookies may limit site access. No personally identifiable information is stored in cookies.
+## Intellectual property
 
-## Changes to Terms & Conditions
+The Service and its content, features, and functionality are owned by Kobaltstack LLC or its licensors and are protected by applicable intellectual property laws. You may not copy, modify, or distribute any part of the Service without prior written permission, except as expressly permitted by this Agreement.
 
-SHIFT LLC may discontinue services at its discretion without prior notice. Updated terms will be posted on https://developer-not-found-404.epilogic.studio/ with modification dates.
+## Term and termination
 
-## Modifications to Website
+This Agreement remains in effect until terminated by you or by us. We may suspend or terminate your access to the Service at any time, with or without notice, if you violate this Agreement. Upon termination, your right to use the Service ends immediately.
 
-SHIFT LLC reserves the right to modify, suspend, or discontinue, temporarily or permanently, the Website or any service provided through it without notice and without liability to you.
+## Disclaimer of warranties
 
-## Updates to Website
+The Service is provided "as is" and "as available," without warranties of any kind, whether express or implied, including implied warranties of merchantability, fitness for a particular purpose, and non-infringement. We do not guarantee the Service will be uninterrupted, error-free, or fully secure.
 
-Updates may modify features and become integral to the Service. The Company has no obligation to provide updates or maintain specific functionalities.
+## Limitation of liability
 
-## Third-Party Services
-
-SHIFT LLC is not responsible for third-party content accuracy, legality, or quality. Users access such services at their own risk.
-
-## Term and Termination
-
-This agreement continues until terminated by either party. SHIFT LLC may suspend or terminate access without reason or notice. Immediate termination occurs upon policy violation.
-
-## Copyright Infringement Notice
-
-Copyright owners must provide written notice including signatures, material identification, contact information, and good-faith statements.
-
-Copyright infringement notices may be sent to support@epilogic.com.
+To the maximum extent permitted by law, Kobaltstack LLC's total liability arising out of or relating to this Agreement or the Service will not exceed the amount you paid for the Service in the preceding 12 months. We will not be liable for indirect, incidental, special, consequential, or punitive damages.
 
 ## Indemnification
 
-Users agree to indemnify SHIFT LLC and its affiliates from claims arising from Website use, agreement violations, or third-party rights infringement.
+You agree to indemnify and hold harmless Kobaltstack LLC and its affiliates from any claims, damages, or expenses (including reasonable legal fees) arising from your use of the Service or violation of this Agreement.
 
-## No Warranties
+## Governing law and disputes
 
-The Website is provided "AS IS" and "AS AVAILABLE" without warranties of any kind. The Company does not warrant uninterrupted operation, error-free performance, or compatibility with other systems.
+This Agreement is governed by the laws applicable to Kobaltstack LLC, without regard to conflict-of-law principles. Any dispute arising from this Agreement will first be addressed through informal negotiation by contacting us at [support@epilogic.com](mailto:support@epilogic.com). If unresolved within 60 days, either party may pursue the dispute through binding arbitration or another mutually agreed process.
 
-## Limitation of Liability
+## Changes to these terms
 
-Liability is limited to amounts actually paid for the Website services. SHIFT LLC is not liable for consequential, indirect, or special damages.
+We may update this Agreement from time to time. Material changes will be communicated with reasonable advance notice. Continued use of the Service after changes take effect constitutes your acceptance of the updated terms.
 
-## Severability
+## Entire agreement
 
-If provisions are unenforceable, they will be modified to accomplish their objectives while remaining provisions continue in effect.
+This Agreement, together with our Privacy Policy and Refund Policy, constitutes the entire agreement between you and Kobaltstack LLC regarding 404: Developer Not Found and supersedes any prior agreements on this subject.
 
-## Waiver
+## Contact us
 
-Failure to exercise rights does not constitute waiver of subsequent rights or breaches.
-
-## Amendments to Agreement
-
-SHIFT LLC reserves the right to modify these Terms at any time. Material changes require 30 days' notice before taking effect.
-
-## Entire Agreement
-
-These Terms supersede all prior agreements and constitute the complete understanding between parties.
-
-## Intellectual Property
-
-The Website and its entire contents, features, and functionality are owned by SHIFT LLC and are protected by Armenia and international copyright, trademark, patent, trade secret, and other intellectual property laws.
-
-## Agreement to Arbitrate
-
-Disputes shall be resolved through binding arbitration under American Arbitration Association rules, excluding intellectual property injunction claims.
-
-## Notice of Dispute
-
-Disputes require written notice via email to support@epilogic.com. Parties have 60 days for informal negotiation before arbitration.
-
-## Binding Arbitration
-
-Users waive jury trial rights. The prevailing party's legal costs are borne by the non-prevailing party.
-
-## Submissions and Privacy
-
-User submissions automatically become non-confidential Company property usable perpetually without compensation.
-
-## Promotions
-
-Contests may require submissions and have separate rules. Users must review applicable rules to determine eligibility.
-
-## Typographical Errors
-
-Incorrect pricing allows SHIFT LLC to refuse or cancel orders. Credits are issued immediately if charges were already applied.
-
-## Miscellaneous
-
-These Terms are controlled by Armenia law. Courts may enforce injunctive relief for breaches. The Company operates from Armenia offices.
-
-## Disclaimer
-
-SHIFT LLC is not responsible for any content, code, or inaccuracies. Services are provided "as is" without warranties. SHIFT LLC exercises no editorial control over third-party content.
-
-## Contact
-
-Questions can be directed to support@epilogic.com.
-```
+Questions about these Terms of Service can be directed to: [support@epilogic.com](mailto:support@epilogic.com)

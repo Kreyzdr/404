@@ -6,7 +6,10 @@ import {
 import { getPaymentAttribution } from "@/lib/paymentAttribution";
 
 /** Backend game record: price, currency and return URLs are resolved from it. */
-export const PAYMENT_GAME_ID = "db7a4e9e-ca44-4dc9-abdb-f42d5c46cc8b";
+export const PAYMENT_GAME_ID = "79a7471b-e72e-4458-8dd4-619581409477";
+
+/** Captain Labs paywall for 404: Developer Not Found. */
+export const PAYMENT_PAYWALL_ID = 879;
 
 export type PaymentErrorCode = "generic" | "missingUrl" | "network";
 
@@ -37,6 +40,7 @@ export async function createPaymentLink(email: string): Promise<PaymentLinkResul
       body: JSON.stringify({
         email: email.trim(),
         game_id: PAYMENT_GAME_ID,
+        paywall_id: PAYMENT_PAYWALL_ID,
         vid: vid || resolveWebVisitorId(),
         from: from || LANDING_ANALYTICS_HOST,
       }),
