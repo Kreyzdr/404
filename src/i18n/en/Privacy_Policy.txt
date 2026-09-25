@@ -69,7 +69,7 @@ California residents have the right to know what personal information is collect
 
 ## Cookies
 
-404: Developer Not Found uses cookies and similar technologies to operate the Service, remember your preferences, and understand usage. You can control cookies through your browser settings; disabling them may limit some functionality. We use Meta Pixel to measure and improve our advertising. This shares data about your visit with Meta Platforms, Inc. See Meta's Privacy Policy for details.
+404: Developer Not Found uses cookies and similar technologies to operate the Service, remember your preferences, and understand usage. You can control cookies through your browser settings; disabling them may limit some functionality. We use Meta Pixel to measure and improve our advertising. This shares data about your visit with Meta Platforms, Inc. See [Meta's Privacy Policy](https://www.facebook.com/privacy/policy/) for details.
 
 ## Children's privacy
 
@@ -89,7 +89,7 @@ The Meta Pixel may help us:
 
 Meta may collect device information, browser information, IP addresses, cookie identifiers, and information about actions taken on our website.
 
-Information collected through the Meta Pixel is processed in accordance with Meta's applicable privacy policies. You may be able to control personalized advertising through Meta's privacy settings and our cookie preference controls.
+Information collected through the Meta Pixel is processed in accordance with [Meta's applicable privacy policies](https://www.facebook.com/privacy/policy/). You may be able to control personalized advertising through Meta's privacy settings and our cookie preference controls.
 
 ## Changes to this policy
 

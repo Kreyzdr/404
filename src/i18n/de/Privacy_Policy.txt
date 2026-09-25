@@ -69,7 +69,7 @@ Einwohner Kaliforniens haben das Recht zu erfahren, welche personenbezogenen Dat
 
 ## Cookies
 
-404: Developer Not Found verwendet Cookies und ähnliche Technologien, um den Dienst zu betreiben, deine Einstellungen zu speichern und die Nutzung zu verstehen. Du kannst Cookies in den Browsereinstellungen steuern; das Deaktivieren kann einige Funktionen einschränken. Wir nutzen das Meta Pixel, um unsere Werbung zu messen und zu verbessern. Dabei werden Daten über deinen Besuch an Meta Platforms, Inc. übermittelt. Einzelheiten stehen in der Datenschutzerklärung von Meta.
+404: Developer Not Found verwendet Cookies und ähnliche Technologien, um den Dienst zu betreiben, deine Einstellungen zu speichern und die Nutzung zu verstehen. Du kannst Cookies in den Browsereinstellungen steuern; das Deaktivieren kann einige Funktionen einschränken. Wir nutzen das Meta Pixel, um unsere Werbung zu messen und zu verbessern. Dabei werden Daten über deinen Besuch an Meta Platforms, Inc. übermittelt. Einzelheiten stehen in der [Datenschutzerklärung von Meta](https://www.facebook.com/privacy/policy/).
 
 ## Datenschutz von Kindern
 
@@ -89,7 +89,7 @@ Das Meta Pixel kann uns helfen:
 
 Meta kann Geräteinformationen, Browserinformationen, IP-Adressen, Cookie-Kennungen und Informationen über Handlungen auf unserer Website erheben.
 
-Über das Meta Pixel erhobene Daten werden gemäß den geltenden Datenschutzrichtlinien von Meta verarbeitet. Personalisierte Werbung kannst du über die Datenschutzeinstellungen von Meta und unsere Cookie-Einstellungen steuern.
+Über das Meta Pixel erhobene Daten werden gemäß den [geltenden Datenschutzrichtlinien von Meta](https://www.facebook.com/privacy/policy/) verarbeitet. Personalisierte Werbung kannst du über die Datenschutzeinstellungen von Meta und unsere Cookie-Einstellungen steuern.
 
 ## Änderungen dieser Erklärung
 

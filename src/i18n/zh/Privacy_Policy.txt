@@ -69,7 +69,7 @@
 
 ## Cookies
 
-404: Developer Not Found 使用 Cookie 及类似技术来运营服务、记住你的偏好并了解使用情况。你可以在浏览器设置中控制 Cookie；禁用它们可能会限制部分功能。我们使用 Meta Pixel 来衡量并改进广告。这会与 Meta Platforms, Inc. 共享你的访问数据。详情见 Meta 的隐私政策。
+404: Developer Not Found 使用 Cookie 及类似技术来运营服务、记住你的偏好并了解使用情况。你可以在浏览器设置中控制 Cookie；禁用它们可能会限制部分功能。我们使用 Meta Pixel 来衡量并改进广告。这会与 Meta Platforms, Inc. 共享你的访问数据。详情见 [Meta 的隐私政策](https://www.facebook.com/privacy/policy/)。
 
 ## 儿童隐私
 
@@ -89,7 +89,7 @@ Meta Pixel 可以帮助我们：
 
 Meta 可能收集设备信息、浏览器信息、IP 地址、Cookie 标识符以及你在我们网站上的操作信息。
 
-通过 Meta Pixel 收集的信息按照 Meta 适用的隐私政策处理。你可以通过 Meta 的隐私设置和我们的 Cookie 偏好控制来管理个性化广告。
+通过 Meta Pixel 收集的信息按照 [Meta 适用的隐私政策](https://www.facebook.com/privacy/policy/)处理。你可以通过 Meta 的隐私设置和我们的 Cookie 偏好控制来管理个性化广告。
 
 ## 本政策的变更
 
