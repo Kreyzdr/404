@@ -1,13 +1,5 @@
-import {
-  resolvePaymentCreateLinkUrl,
-  resolveWebVisitorId,
-} from "@/lib/landingAnalytics";
-import { getPaymentAttribution } from "@/lib/paymentAttribution";
-import { SITE_URL } from "@/lib/site";
-
-/** The payments API builds the post-checkout redirect as
-    `https://{from}/payment-success`. This must be the public site. */
-const PAYMENT_RETURN_HOST = new URL(SITE_URL).host;
+import { resolvePaymentCreateLinkUrl } from "@/lib/landingAnalytics";
+import { getMarketingAttribution } from "@/lib/marketingAttribution";
 
 /** Backend game record: price and currency are resolved from it. */
 export const PAYMENT_GAME_ID = "79a7471b-e72e-4458-8dd4-619581409477";
@@ -32,7 +24,7 @@ function readObject(value: unknown): Record<string, unknown> | undefined {
 }
 
 export async function createPaymentLink(email: string): Promise<PaymentLinkResult> {
-  const { vid } = getPaymentAttribution();
+  const attribution = getMarketingAttribution();
 
   try {
     const response = await fetch(resolvePaymentCreateLinkUrl(), {
@@ -45,8 +37,10 @@ export async function createPaymentLink(email: string): Promise<PaymentLinkResul
         email: email.trim(),
         game_id: PAYMENT_GAME_ID,
         paywall_id: PAYMENT_PAYWALL_ID,
-        vid: vid || resolveWebVisitorId(),
-        from: PAYMENT_RETURN_HOST,
+        vid: attribution.vid,
+        from: attribution.src,
+        utm_source: attribution.utm_source,
+        utm_campaign: attribution.utm_campaign,
       }),
     });
 
